@@ -1,0 +1,32 @@
+2. 	Color: 	Color is the main way the information of this graphic is communicated. 
+		It is used in a associative way, meaning it uses color to assign 
+		different areas a similar value.
+	Grain: 	The orientation in this graphic gives makes it possible to make further 
+		assosiate areas. However, in this case the use of a limited amount of 
+		grain types and its coloring abfuscates more of the meaning than it 
+		reveals. This is especially irritating considering the same page contains
+		more graphics that have similar values.
+		
+3. 	Yes, i do. Art in my opinion is meant to convey an idea, meaning and/or feeling 
+	of its creator to another. Visiualisation does just that. It creates something 
+	visible that the viewer van see and interpret. In this case however it conveys 
+	empirical data to inform the viewer of something, instead of (directly) invocing
+	a more emotional response.
+
+4.	Where archaeology has been found: 
+	It does do this, but in such a way that it abfuscates the exact location and 
+	finds.
+
+	Where archaeology can possibly be found: 
+	It does this quite well, but the graphic hinders itself by a poor desicion making
+	in selecting relevent data and a good color scheme.
+
+	How landscape and archaeology relate to one another: 
+	It does, but it requires a certain amount of knowlegde on the part of the viewer.
+
+Vraag.
+Ik heb tot nu toe alleen nog maar programmeren 1 afgerond maar ben ondanks dat in groep A
+geplaatst. Hierdoor heb ik nog geen evaring met het werken met Javascript en kan ik nog
+niet aan de slag met het technische deel. Kan ik mogelijk nog in een groep B geplaatst worden?
+
+	
