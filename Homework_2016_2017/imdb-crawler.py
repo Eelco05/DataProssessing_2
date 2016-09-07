@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Name: Eelco Alink
+# Student number: 10459006
 '''
 This script crawls the IMDB top 250 movies.
 '''
