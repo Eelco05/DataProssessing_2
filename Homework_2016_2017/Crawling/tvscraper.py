@@ -53,24 +53,15 @@ def extract_tvseries(dom):
         for genre in row.by_class("genre"):
             genres.append(genre.content)
 
-        #     # removing unicode
-        #     line_string = line.content.encode('ascii','ignore')
-        #     genre += line_string
-        # # entering into global variable without the last ", "
-        # genres.append(row.by_class(genre[1:-12]))
-    # print genres
     
     # extracts actors
     for row in dom.body.by_class("lister-item-content"):
-        for line in row.by_tag("p")[2]:
-            print line.content
-            actors.append(line.by_tag("a"))
-            print actors
-            # see line 55
-            # line_string = line.content.encode('ascii','ignore')
-            # credited += line_string
-            # credited += ", "
-        # see line 59
+        for line in row.by_tag("p"):
+            actor_line = ""
+            for actor in line.by_tag("a"):
+                actor = actor.content.encode('utf-8')
+                actor_line = actor_line + actor + ", "
+            actors.append(actor_line)
         
     # print actors
     
