@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<canvas id="myChart" width="300" height="130"></canvas>
+<script>
+function createTransform(domain, range){
+	\\ domain is a two-element array of the data bounds [domain_min, domain_max]
+	\\ range is a two-element array of the screen bounds [range_min, range_max]
+	\\ This gives you two equations to solve:
+	\\ range_min = alpha * domain_min + beta
+	\\ range_max = alpha * domain_max + beta
+ 		\\ Implement your solution here:
+ 	var domain = [dXmin, dXmax];
+ 	var range = [rXmin, rXmax];
+ 		var alpha = (domain[1] - domain[0]) / (range[1] - range[0]);
+	var beta = domain[0] - alpha * range[0];
+	
+	return function(x){
+		return alpha * x + beta;
+	};
+}
+</script>
