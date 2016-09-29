@@ -1,0 +1,70 @@
+/**************************************
+Data Prossessing
+SVG 2
+svg2.css
+
+By Eelco Alink <eelco.alink@gmail.com>
+
+                ====
+                \\// 
+           <=>===[]===<=>
+                 []
+                 []
+                 []
+                _[]_
+                \  /
+                 \/
+
+Stylesheet for html
+****************************************/
+
+/*header text*/
+h1{
+	font-size:150%;
+	text-align:left;
+}
+
+/*page make-up */
+body{
+	background-color:#FAFAD2;
+}
+
+/*legend*/
+table{
+	align:left;
+}
+
+tr{
+	border: 1px solid black; 
+	border-collapse: collapse;
+	font-size:10pt;
+}
+
+th{
+	border: 1px solid black; 
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+/*legend colors*/
+#l1 {background-color:#fff7ec;}
+#l2 {background-color:#fee8c8;}
+#l3 {background-color:#fdd49e;}
+#l4 {background-color:#fdbb84;}
+#l5 {background-color:#fc8d59;}
+#l6 {background-color:#ef6548;}
+#l7 {background-color:#d7301f;}
+#l8 {background-color:#b30000;}
+#l9 {background-color:#7f0000;}
+
+/*explanation*/
+td{
+	font-size: 12pt;
+	padding: 2px;
+}
+
+#explanation{
+	width:52%;
+	column-fill: auto;
+	table-layout: fixed;
+}

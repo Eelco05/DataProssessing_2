@@ -1,0 +1,40 @@
+/**************************************
+Data Prossessing
+SVG 1
+svg1.css
+
+By Eelco Alink <eelco.alink@gmail.com>
+
+                ====
+                \\// 
+           <=>===[]===<=>
+                 []
+                 []
+                 []
+                _[]_
+                \  /
+                 \/
+
+Stylesheet for html
+****************************************/
+
+/* continent color */
+.continent {
+    fill: gray;
+}
+
+/* country colors */
+#nor {
+    fill: yellow;
+    stroke: orange;
+}
+
+#nld {
+    fill: blue;
+    stroke: white;
+}
+
+#gb {
+    fill: red;
+    stroke: green;
+}
