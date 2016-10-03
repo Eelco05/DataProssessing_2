@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="d3.min.js"></script>
+		<h1>barchart</h1>
+	</head>
+	<body>
+		<style>
+
+		.barChart1 div {
+			font: 10px sans-serif;
+			background-color: steelblue;
+			text-align: right;
+			padding: 3px;
+			margin: 1px;
+			color: white;
+		}
+
+		</style>
+		<div class="barChart1">
+			<div style="width: 40px;">4</div>
+			<div style="width: 80px;">8</div>
+			<div style="width: 150px;">15</div>
+			<div style="width: 160px;">16</div>
+			<div style="width: 230px;">23</div>
+			<div style="width: 420px;">42</div>
+		</div>
+		<style>
+
+			.barChart2 rect {
+				fill: steelblue;
+			}
+
+			.barChart2 text {
+				fill: white;
+				font: 10px sans-serif;
+				text-anchor: end;
+			}
+
+			</style>
+			<svg class="barChart2" width="420" height="120">
+				<g transform="translate(0,0)">
+					<rect width="40" height="19"></rect>
+					<text x="37" y="9.5" dy=".35em">4</text>
+				</g>
+				<g transform="translate(0,20)">
+					<rect width="80" height="19"></rect>
+					<text x="77" y="9.5" dy=".35em">8</text>
+				</g>
+				<g transform="translate(0,40)">
+					<rect width="150" height="19"></rect>
+					<text x="147" y="9.5" dy=".35em">15</text>
+				</g>
+				<g transform="translate(0,60)">
+					<rect width="160" height="19"></rect>
+					<text x="157" y="9.5" dy=".35em">16</text>
+				</g>
+				<g transform="translate(0,80)">
+					<rect width="230" height="19"></rect>
+					<text x="227" y="9.5" dy=".35em">23</text>
+				</g>
+				<g transform="translate(0,100)">
+					<rect width="420" height="19"></rect>
+					<text x="417" y="9.5" dy=".35em">42</text>
+				</g>
+			</svg>
+	</body>
+</html>
