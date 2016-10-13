@@ -1,0 +1,1462 @@
+[
+    {
+        "date": "1986/01/01",
+        " temperature": "  -28"
+    },
+    {
+        "date": "1986/01/02",
+        " temperature": "   23"
+    },
+    {
+        "date": "1986/01/03",
+        " temperature": "    9"
+    },
+    {
+        "date": "1986/01/04",
+        " temperature": "    0"
+    },
+    {
+        "date": "1986/01/05",
+        " temperature": "    7"
+    },
+    {
+        "date": "1986/01/06",
+        " temperature": "    8"
+    },
+    {
+        "date": "1986/01/07",
+        " temperature": "  -31"
+    },
+    {
+        "date": "1986/01/08",
+        " temperature": "  -23"
+    },
+    {
+        "date": "1986/01/09",
+        " temperature": "  -41"
+    },
+    {
+        "date": "1986/01/10",
+        " temperature": "   13"
+    },
+    {
+        "date": "1986/01/11",
+        " temperature": "   44"
+    },
+    {
+        "date": "1986/01/12",
+        " temperature": "   53"
+    },
+    {
+        "date": "1986/01/13",
+        " temperature": "   81"
+    },
+    {
+        "date": "1986/01/14",
+        " temperature": "   63"
+    },
+    {
+        "date": "1986/01/15",
+        " temperature": "   44"
+    },
+    {
+        "date": "1986/01/16",
+        " temperature": "   25"
+    },
+    {
+        "date": "1986/01/17",
+        " temperature": "   20"
+    },
+    {
+        "date": "1986/01/18",
+        " temperature": "   57"
+    },
+    {
+        "date": "1986/01/19",
+        " temperature": "   87"
+    },
+    {
+        "date": "1986/01/20",
+        " temperature": "   62"
+    },
+    {
+        "date": "1986/01/21",
+        " temperature": "   64"
+    },
+    {
+        "date": "1986/01/22",
+        " temperature": "   55"
+    },
+    {
+        "date": "1986/01/23",
+        " temperature": "   62"
+    },
+    {
+        "date": "1986/01/24",
+        " temperature": "   32"
+    },
+    {
+        "date": "1986/01/25",
+        " temperature": "   21"
+    },
+    {
+        "date": "1986/01/26",
+        " temperature": "    0"
+    },
+    {
+        "date": "1986/01/27",
+        " temperature": "  -23"
+    },
+    {
+        "date": "1986/01/28",
+        " temperature": "   16"
+    },
+    {
+        "date": "1986/01/29",
+        " temperature": "   18"
+    },
+    {
+        "date": "1986/01/30",
+        " temperature": "    6"
+    },
+    {
+        "date": "1986/01/31",
+        " temperature": "   18"
+    },
+    {
+        "date": "1986/02/01",
+        " temperature": "   20"
+    },
+    {
+        "date": "1986/02/02",
+        " temperature": "   12"
+    },
+    {
+        "date": "1986/02/03",
+        " temperature": "   -6"
+    },
+    {
+        "date": "1986/02/04",
+        " temperature": "  -19"
+    },
+    {
+        "date": "1986/02/05",
+        " temperature": "  -36"
+    },
+    {
+        "date": "1986/02/06",
+        " temperature": "  -40"
+    },
+    {
+        "date": "1986/02/07",
+        " temperature": "  -36"
+    },
+    {
+        "date": "1986/02/08",
+        " temperature": "  -48"
+    },
+    {
+        "date": "1986/02/09",
+        " temperature": "  -88"
+    },
+    {
+        "date": "1986/02/10",
+        " temperature": "  -26"
+    },
+    {
+        "date": "1986/02/11",
+        " temperature": "  -13"
+    },
+    {
+        "date": "1986/02/12",
+        " temperature": "  -16"
+    },
+    {
+        "date": "1986/02/13",
+        " temperature": "  -31"
+    },
+    {
+        "date": "1986/02/14",
+        " temperature": "  -32"
+    },
+    {
+        "date": "1986/02/15",
+        " temperature": "  -29"
+    },
+    {
+        "date": "1986/02/16",
+        " temperature": "  -36"
+    },
+    {
+        "date": "1986/02/17",
+        " temperature": "  -20"
+    },
+    {
+        "date": "1986/02/18",
+        " temperature": "  -29"
+    },
+    {
+        "date": "1986/02/19",
+        " temperature": "  -32"
+    },
+    {
+        "date": "1986/02/20",
+        " temperature": "  -67"
+    },
+    {
+        "date": "1986/02/21",
+        " temperature": "  -84"
+    },
+    {
+        "date": "1986/02/22",
+        " temperature": "  -69"
+    },
+    {
+        "date": "1986/02/23",
+        " temperature": "  -55"
+    },
+    {
+        "date": "1986/02/24",
+        " temperature": "  -56"
+    },
+    {
+        "date": "1986/02/25",
+        " temperature": "  -46"
+    },
+    {
+        "date": "1986/02/26",
+        " temperature": "  -58"
+    },
+    {
+        "date": "1986/02/27",
+        " temperature": "  -50"
+    },
+    {
+        "date": "1986/02/28",
+        " temperature": "  -21"
+    },
+    {
+        "date": "1986/03/01",
+        " temperature": "  -16"
+    },
+    {
+        "date": "1986/03/02",
+        " temperature": "  -22"
+    },
+    {
+        "date": "1986/03/03",
+        " temperature": "  -31"
+    },
+    {
+        "date": "1986/03/04",
+        " temperature": "   -3"
+    },
+    {
+        "date": "1986/03/05",
+        " temperature": "   68"
+    },
+    {
+        "date": "1986/03/06",
+        " temperature": "   45"
+    },
+    {
+        "date": "1986/03/07",
+        " temperature": "   31"
+    },
+    {
+        "date": "1986/03/08",
+        " temperature": "   18"
+    },
+    {
+        "date": "1986/03/09",
+        " temperature": "   16"
+    },
+    {
+        "date": "1986/03/10",
+        " temperature": "   22"
+    },
+    {
+        "date": "1986/03/11",
+        " temperature": "   15"
+    },
+    {
+        "date": "1986/03/12",
+        " temperature": "   23"
+    },
+    {
+        "date": "1986/03/13",
+        " temperature": "   29"
+    },
+    {
+        "date": "1986/03/14",
+        " temperature": "   24"
+    },
+    {
+        "date": "1986/03/15",
+        " temperature": "   47"
+    },
+    {
+        "date": "1986/03/16",
+        " temperature": "   57"
+    },
+    {
+        "date": "1986/03/17",
+        " temperature": "   54"
+    },
+    {
+        "date": "1986/03/18",
+        " temperature": "   93"
+    },
+    {
+        "date": "1986/03/19",
+        " temperature": "   99"
+    },
+    {
+        "date": "1986/03/20",
+        " temperature": "   62"
+    },
+    {
+        "date": "1986/03/21",
+        " temperature": "   48"
+    },
+    {
+        "date": "1986/03/22",
+        " temperature": "   54"
+    },
+    {
+        "date": "1986/03/23",
+        " temperature": "   75"
+    },
+    {
+        "date": "1986/03/24",
+        " temperature": "   53"
+    },
+    {
+        "date": "1986/03/25",
+        " temperature": "   49"
+    },
+    {
+        "date": "1986/03/26",
+        " temperature": "   55"
+    },
+    {
+        "date": "1986/03/27",
+        " temperature": "   93"
+    },
+    {
+        "date": "1986/03/28",
+        " temperature": "   84"
+    },
+    {
+        "date": "1986/03/29",
+        " temperature": "   70"
+    },
+    {
+        "date": "1986/03/30",
+        " temperature": "   45"
+    },
+    {
+        "date": "1986/03/31",
+        " temperature": "   44"
+    },
+    {
+        "date": "1986/04/01",
+        " temperature": "   49"
+    },
+    {
+        "date": "1986/04/02",
+        " temperature": "   37"
+    },
+    {
+        "date": "1986/04/03",
+        " temperature": "   34"
+    },
+    {
+        "date": "1986/04/04",
+        " temperature": "   42"
+    },
+    {
+        "date": "1986/04/05",
+        " temperature": "   42"
+    },
+    {
+        "date": "1986/04/06",
+        " temperature": "   49"
+    },
+    {
+        "date": "1986/04/07",
+        " temperature": "   52"
+    },
+    {
+        "date": "1986/04/08",
+        " temperature": "   50"
+    },
+    {
+        "date": "1986/04/09",
+        " temperature": "   44"
+    },
+    {
+        "date": "1986/04/10",
+        " temperature": "   34"
+    },
+    {
+        "date": "1986/04/11",
+        " temperature": "   -1"
+    },
+    {
+        "date": "1986/04/12",
+        " temperature": "    3"
+    },
+    {
+        "date": "1986/04/13",
+        " temperature": "   20"
+    },
+    {
+        "date": "1986/04/14",
+        " temperature": "   42"
+    },
+    {
+        "date": "1986/04/15",
+        " temperature": "   73"
+    },
+    {
+        "date": "1986/04/16",
+        " temperature": "   88"
+    },
+    {
+        "date": "1986/04/17",
+        " temperature": "   71"
+    },
+    {
+        "date": "1986/04/18",
+        " temperature": "   59"
+    },
+    {
+        "date": "1986/04/19",
+        " temperature": "   56"
+    },
+    {
+        "date": "1986/04/20",
+        " temperature": "   57"
+    },
+    {
+        "date": "1986/04/21",
+        " temperature": "   74"
+    },
+    {
+        "date": "1986/04/22",
+        " temperature": "   88"
+    },
+    {
+        "date": "1986/04/23",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/04/24",
+        " temperature": "   92"
+    },
+    {
+        "date": "1986/04/25",
+        " temperature": "  108"
+    },
+    {
+        "date": "1986/04/26",
+        " temperature": "  108"
+    },
+    {
+        "date": "1986/04/27",
+        " temperature": "  107"
+    },
+    {
+        "date": "1986/04/28",
+        " temperature": "   97"
+    },
+    {
+        "date": "1986/04/29",
+        " temperature": "   86"
+    },
+    {
+        "date": "1986/04/30",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/05/01",
+        " temperature": "  133"
+    },
+    {
+        "date": "1986/05/02",
+        " temperature": "  187"
+    },
+    {
+        "date": "1986/05/03",
+        " temperature": "  166"
+    },
+    {
+        "date": "1986/05/04",
+        " temperature": "  128"
+    },
+    {
+        "date": "1986/05/05",
+        " temperature": "  141"
+    },
+    {
+        "date": "1986/05/06",
+        " temperature": "  130"
+    },
+    {
+        "date": "1986/05/07",
+        " temperature": "  127"
+    },
+    {
+        "date": "1986/05/08",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/05/09",
+        " temperature": "  115"
+    },
+    {
+        "date": "1986/05/10",
+        " temperature": "  136"
+    },
+    {
+        "date": "1986/05/11",
+        " temperature": "  118"
+    },
+    {
+        "date": "1986/05/12",
+        " temperature": "  145"
+    },
+    {
+        "date": "1986/05/13",
+        " temperature": "  128"
+    },
+    {
+        "date": "1986/05/14",
+        " temperature": "  124"
+    },
+    {
+        "date": "1986/05/15",
+        " temperature": "  103"
+    },
+    {
+        "date": "1986/05/16",
+        " temperature": "  108"
+    },
+    {
+        "date": "1986/05/17",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/05/18",
+        " temperature": "  147"
+    },
+    {
+        "date": "1986/05/19",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/05/20",
+        " temperature": "  189"
+    },
+    {
+        "date": "1986/05/21",
+        " temperature": "  154"
+    },
+    {
+        "date": "1986/05/22",
+        " temperature": "  129"
+    },
+    {
+        "date": "1986/05/23",
+        " temperature": "  129"
+    },
+    {
+        "date": "1986/05/24",
+        " temperature": "  126"
+    },
+    {
+        "date": "1986/05/25",
+        " temperature": "  147"
+    },
+    {
+        "date": "1986/05/26",
+        " temperature": "  161"
+    },
+    {
+        "date": "1986/05/27",
+        " temperature": "  140"
+    },
+    {
+        "date": "1986/05/28",
+        " temperature": "  108"
+    },
+    {
+        "date": "1986/05/29",
+        " temperature": "  104"
+    },
+    {
+        "date": "1986/05/30",
+        " temperature": "   98"
+    },
+    {
+        "date": "1986/05/31",
+        " temperature": "  109"
+    },
+    {
+        "date": "1986/06/01",
+        " temperature": "  113"
+    },
+    {
+        "date": "1986/06/02",
+        " temperature": "  132"
+    },
+    {
+        "date": "1986/06/03",
+        " temperature": "  122"
+    },
+    {
+        "date": "1986/06/04",
+        " temperature": "   98"
+    },
+    {
+        "date": "1986/06/05",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/06/06",
+        " temperature": "  102"
+    },
+    {
+        "date": "1986/06/07",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/06/08",
+        " temperature": "  118"
+    },
+    {
+        "date": "1986/06/09",
+        " temperature": "  168"
+    },
+    {
+        "date": "1986/06/10",
+        " temperature": "  170"
+    },
+    {
+        "date": "1986/06/11",
+        " temperature": "  121"
+    },
+    {
+        "date": "1986/06/12",
+        " temperature": "  127"
+    },
+    {
+        "date": "1986/06/13",
+        " temperature": "  138"
+    },
+    {
+        "date": "1986/06/14",
+        " temperature": "  182"
+    },
+    {
+        "date": "1986/06/15",
+        " temperature": "  216"
+    },
+    {
+        "date": "1986/06/16",
+        " temperature": "  237"
+    },
+    {
+        "date": "1986/06/17",
+        " temperature": "  222"
+    },
+    {
+        "date": "1986/06/18",
+        " temperature": "  156"
+    },
+    {
+        "date": "1986/06/19",
+        " temperature": "  167"
+    },
+    {
+        "date": "1986/06/20",
+        " temperature": "  168"
+    },
+    {
+        "date": "1986/06/21",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/06/22",
+        " temperature": "  197"
+    },
+    {
+        "date": "1986/06/23",
+        " temperature": "  207"
+    },
+    {
+        "date": "1986/06/24",
+        " temperature": "  153"
+    },
+    {
+        "date": "1986/06/25",
+        " temperature": "  180"
+    },
+    {
+        "date": "1986/06/26",
+        " temperature": "  210"
+    },
+    {
+        "date": "1986/06/27",
+        " temperature": "  230"
+    },
+    {
+        "date": "1986/06/28",
+        " temperature": "  217"
+    },
+    {
+        "date": "1986/06/29",
+        " temperature": "  209"
+    },
+    {
+        "date": "1986/06/30",
+        " temperature": "  223"
+    },
+    {
+        "date": "1986/07/01",
+        " temperature": "  235"
+    },
+    {
+        "date": "1986/07/02",
+        " temperature": "  234"
+    },
+    {
+        "date": "1986/07/03",
+        " temperature": "  206"
+    },
+    {
+        "date": "1986/07/04",
+        " temperature": "  195"
+    },
+    {
+        "date": "1986/07/05",
+        " temperature": "  173"
+    },
+    {
+        "date": "1986/07/06",
+        " temperature": "  160"
+    },
+    {
+        "date": "1986/07/07",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/07/08",
+        " temperature": "  160"
+    },
+    {
+        "date": "1986/07/09",
+        " temperature": "  155"
+    },
+    {
+        "date": "1986/07/10",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/07/11",
+        " temperature": "  146"
+    },
+    {
+        "date": "1986/07/12",
+        " temperature": "  134"
+    },
+    {
+        "date": "1986/07/13",
+        " temperature": "  146"
+    },
+    {
+        "date": "1986/07/14",
+        " temperature": "  163"
+    },
+    {
+        "date": "1986/07/15",
+        " temperature": "  192"
+    },
+    {
+        "date": "1986/07/16",
+        " temperature": "  218"
+    },
+    {
+        "date": "1986/07/17",
+        " temperature": "  185"
+    },
+    {
+        "date": "1986/07/18",
+        " temperature": "  154"
+    },
+    {
+        "date": "1986/07/19",
+        " temperature": "  148"
+    },
+    {
+        "date": "1986/07/20",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/07/21",
+        " temperature": "  172"
+    },
+    {
+        "date": "1986/07/22",
+        " temperature": "  153"
+    },
+    {
+        "date": "1986/07/23",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/07/24",
+        " temperature": "  136"
+    },
+    {
+        "date": "1986/07/25",
+        " temperature": "  146"
+    },
+    {
+        "date": "1986/07/26",
+        " temperature": "  170"
+    },
+    {
+        "date": "1986/07/27",
+        " temperature": "  189"
+    },
+    {
+        "date": "1986/07/28",
+        " temperature": "  221"
+    },
+    {
+        "date": "1986/07/29",
+        " temperature": "  195"
+    },
+    {
+        "date": "1986/07/30",
+        " temperature": "  173"
+    },
+    {
+        "date": "1986/07/31",
+        " temperature": "  177"
+    },
+    {
+        "date": "1986/08/01",
+        " temperature": "  171"
+    },
+    {
+        "date": "1986/08/02",
+        " temperature": "  178"
+    },
+    {
+        "date": "1986/08/03",
+        " temperature": "  205"
+    },
+    {
+        "date": "1986/08/04",
+        " temperature": "  177"
+    },
+    {
+        "date": "1986/08/05",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/08/06",
+        " temperature": "  175"
+    },
+    {
+        "date": "1986/08/07",
+        " temperature": "  174"
+    },
+    {
+        "date": "1986/08/08",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/08/09",
+        " temperature": "  157"
+    },
+    {
+        "date": "1986/08/10",
+        " temperature": "  176"
+    },
+    {
+        "date": "1986/08/11",
+        " temperature": "  172"
+    },
+    {
+        "date": "1986/08/12",
+        " temperature": "  163"
+    },
+    {
+        "date": "1986/08/13",
+        " temperature": "  169"
+    },
+    {
+        "date": "1986/08/14",
+        " temperature": "  198"
+    },
+    {
+        "date": "1986/08/15",
+        " temperature": "  183"
+    },
+    {
+        "date": "1986/08/16",
+        " temperature": "  166"
+    },
+    {
+        "date": "1986/08/17",
+        " temperature": "  159"
+    },
+    {
+        "date": "1986/08/18",
+        " temperature": "  155"
+    },
+    {
+        "date": "1986/08/19",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/08/20",
+        " temperature": "  135"
+    },
+    {
+        "date": "1986/08/21",
+        " temperature": "  140"
+    },
+    {
+        "date": "1986/08/22",
+        " temperature": "  154"
+    },
+    {
+        "date": "1986/08/23",
+        " temperature": "  136"
+    },
+    {
+        "date": "1986/08/24",
+        " temperature": "  125"
+    },
+    {
+        "date": "1986/08/25",
+        " temperature": "  140"
+    },
+    {
+        "date": "1986/08/26",
+        " temperature": "  148"
+    },
+    {
+        "date": "1986/08/27",
+        " temperature": "  127"
+    },
+    {
+        "date": "1986/08/28",
+        " temperature": "  122"
+    },
+    {
+        "date": "1986/08/29",
+        " temperature": "  123"
+    },
+    {
+        "date": "1986/08/30",
+        " temperature": "  134"
+    },
+    {
+        "date": "1986/08/31",
+        " temperature": "  123"
+    },
+    {
+        "date": "1986/09/01",
+        " temperature": "  129"
+    },
+    {
+        "date": "1986/09/02",
+        " temperature": "  149"
+    },
+    {
+        "date": "1986/09/03",
+        " temperature": "  130"
+    },
+    {
+        "date": "1986/09/04",
+        " temperature": "  125"
+    },
+    {
+        "date": "1986/09/05",
+        " temperature": "  128"
+    },
+    {
+        "date": "1986/09/06",
+        " temperature": "  126"
+    },
+    {
+        "date": "1986/09/07",
+        " temperature": "  121"
+    },
+    {
+        "date": "1986/09/08",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/09/09",
+        " temperature": "  102"
+    },
+    {
+        "date": "1986/09/10",
+        " temperature": "   84"
+    },
+    {
+        "date": "1986/09/11",
+        " temperature": "   90"
+    },
+    {
+        "date": "1986/09/12",
+        " temperature": "  103"
+    },
+    {
+        "date": "1986/09/13",
+        " temperature": "  114"
+    },
+    {
+        "date": "1986/09/14",
+        " temperature": "  140"
+    },
+    {
+        "date": "1986/09/15",
+        " temperature": "   93"
+    },
+    {
+        "date": "1986/09/16",
+        " temperature": "  106"
+    },
+    {
+        "date": "1986/09/17",
+        " temperature": "  106"
+    },
+    {
+        "date": "1986/09/18",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/09/19",
+        " temperature": "   92"
+    },
+    {
+        "date": "1986/09/20",
+        " temperature": "  104"
+    },
+    {
+        "date": "1986/09/21",
+        " temperature": "  125"
+    },
+    {
+        "date": "1986/09/22",
+        " temperature": "  138"
+    },
+    {
+        "date": "1986/09/23",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/09/24",
+        " temperature": "  122"
+    },
+    {
+        "date": "1986/09/25",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/09/26",
+        " temperature": "   98"
+    },
+    {
+        "date": "1986/09/27",
+        " temperature": "  102"
+    },
+    {
+        "date": "1986/09/28",
+        " temperature": "  109"
+    },
+    {
+        "date": "1986/09/29",
+        " temperature": "  144"
+    },
+    {
+        "date": "1986/09/30",
+        " temperature": "  130"
+    },
+    {
+        "date": "1986/10/01",
+        " temperature": "  124"
+    },
+    {
+        "date": "1986/10/02",
+        " temperature": "  127"
+    },
+    {
+        "date": "1986/10/03",
+        " temperature": "   99"
+    },
+    {
+        "date": "1986/10/04",
+        " temperature": "  108"
+    },
+    {
+        "date": "1986/10/05",
+        " temperature": "  141"
+    },
+    {
+        "date": "1986/10/06",
+        " temperature": "  151"
+    },
+    {
+        "date": "1986/10/07",
+        " temperature": "  152"
+    },
+    {
+        "date": "1986/10/08",
+        " temperature": "  125"
+    },
+    {
+        "date": "1986/10/09",
+        " temperature": "  127"
+    },
+    {
+        "date": "1986/10/10",
+        " temperature": "  142"
+    },
+    {
+        "date": "1986/10/11",
+        " temperature": "  128"
+    },
+    {
+        "date": "1986/10/12",
+        " temperature": "  132"
+    },
+    {
+        "date": "1986/10/13",
+        " temperature": "  119"
+    },
+    {
+        "date": "1986/10/14",
+        " temperature": "  153"
+    },
+    {
+        "date": "1986/10/15",
+        " temperature": "  162"
+    },
+    {
+        "date": "1986/10/16",
+        " temperature": "  124"
+    },
+    {
+        "date": "1986/10/17",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/10/18",
+        " temperature": "  118"
+    },
+    {
+        "date": "1986/10/19",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/10/20",
+        " temperature": "   90"
+    },
+    {
+        "date": "1986/10/21",
+        " temperature": "   98"
+    },
+    {
+        "date": "1986/10/22",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/10/23",
+        " temperature": "   73"
+    },
+    {
+        "date": "1986/10/24",
+        " temperature": "   77"
+    },
+    {
+        "date": "1986/10/25",
+        " temperature": "  100"
+    },
+    {
+        "date": "1986/10/26",
+        " temperature": "   85"
+    },
+    {
+        "date": "1986/10/27",
+        " temperature": "   89"
+    },
+    {
+        "date": "1986/10/28",
+        " temperature": "  123"
+    },
+    {
+        "date": "1986/10/29",
+        " temperature": "  100"
+    },
+    {
+        "date": "1986/10/30",
+        " temperature": "   93"
+    },
+    {
+        "date": "1986/10/31",
+        " temperature": "   91"
+    },
+    {
+        "date": "1986/11/01",
+        " temperature": "  105"
+    },
+    {
+        "date": "1986/11/02",
+        " temperature": "   74"
+    },
+    {
+        "date": "1986/11/03",
+        " temperature": "   76"
+    },
+    {
+        "date": "1986/11/04",
+        " temperature": "   70"
+    },
+    {
+        "date": "1986/11/05",
+        " temperature": "   94"
+    },
+    {
+        "date": "1986/11/06",
+        " temperature": "   88"
+    },
+    {
+        "date": "1986/11/07",
+        " temperature": "   70"
+    },
+    {
+        "date": "1986/11/08",
+        " temperature": "   73"
+    },
+    {
+        "date": "1986/11/09",
+        " temperature": "   56"
+    },
+    {
+        "date": "1986/11/10",
+        " temperature": "  102"
+    },
+    {
+        "date": "1986/11/11",
+        " temperature": "  128"
+    },
+    {
+        "date": "1986/11/12",
+        " temperature": "   83"
+    },
+    {
+        "date": "1986/11/13",
+        " temperature": "  115"
+    },
+    {
+        "date": "1986/11/14",
+        " temperature": "  120"
+    },
+    {
+        "date": "1986/11/15",
+        " temperature": "  100"
+    },
+    {
+        "date": "1986/11/16",
+        " temperature": "   77"
+    },
+    {
+        "date": "1986/11/17",
+        " temperature": "   89"
+    },
+    {
+        "date": "1986/11/18",
+        " temperature": "   83"
+    },
+    {
+        "date": "1986/11/19",
+        " temperature": "  114"
+    },
+    {
+        "date": "1986/11/20",
+        " temperature": "   60"
+    },
+    {
+        "date": "1986/11/21",
+        " temperature": "   58"
+    },
+    {
+        "date": "1986/11/22",
+        " temperature": "   80"
+    },
+    {
+        "date": "1986/11/23",
+        " temperature": "   58"
+    },
+    {
+        "date": "1986/11/24",
+        " temperature": "   89"
+    },
+    {
+        "date": "1986/11/25",
+        " temperature": "  120"
+    },
+    {
+        "date": "1986/11/26",
+        " temperature": "   96"
+    },
+    {
+        "date": "1986/11/27",
+        " temperature": "   64"
+    },
+    {
+        "date": "1986/11/28",
+        " temperature": "   34"
+    },
+    {
+        "date": "1986/11/29",
+        " temperature": "   -6"
+    },
+    {
+        "date": "1986/11/30",
+        " temperature": "    3"
+    },
+    {
+        "date": "1986/12/01",
+        " temperature": "   38"
+    },
+    {
+        "date": "1986/12/02",
+        " temperature": "   83"
+    },
+    {
+        "date": "1986/12/03",
+        " temperature": "   87"
+    },
+    {
+        "date": "1986/12/04",
+        " temperature": "   95"
+    },
+    {
+        "date": "1986/12/05",
+        " temperature": "   91"
+    },
+    {
+        "date": "1986/12/06",
+        " temperature": "   47"
+    },
+    {
+        "date": "1986/12/07",
+        " temperature": "   36"
+    },
+    {
+        "date": "1986/12/08",
+        " temperature": "  102"
+    },
+    {
+        "date": "1986/12/09",
+        " temperature": "   70"
+    },
+    {
+        "date": "1986/12/10",
+        " temperature": "   36"
+    },
+    {
+        "date": "1986/12/11",
+        " temperature": "   34"
+    },
+    {
+        "date": "1986/12/12",
+        " temperature": "   48"
+    },
+    {
+        "date": "1986/12/13",
+        " temperature": "   45"
+    },
+    {
+        "date": "1986/12/14",
+        " temperature": "   25"
+    },
+    {
+        "date": "1986/12/15",
+        " temperature": "   21"
+    },
+    {
+        "date": "1986/12/16",
+        " temperature": "   53"
+    },
+    {
+        "date": "1986/12/17",
+        " temperature": "   60"
+    },
+    {
+        "date": "1986/12/18",
+        " temperature": "   79"
+    },
+    {
+        "date": "1986/12/19",
+        " temperature": "   45"
+    },
+    {
+        "date": "1986/12/20",
+        " temperature": "   39"
+    },
+    {
+        "date": "1986/12/21",
+        " temperature": "   22"
+    },
+    {
+        "date": "1986/12/22",
+        " temperature": "   -2"
+    },
+    {
+        "date": "1986/12/23",
+        " temperature": "   -1"
+    },
+    {
+        "date": "1986/12/24",
+        " temperature": "  -14"
+    },
+    {
+        "date": "1986/12/25",
+        " temperature": "   13"
+    },
+    {
+        "date": "1986/12/26",
+        " temperature": "   29"
+    },
+    {
+        "date": "1986/12/27",
+        " temperature": "   52"
+    },
+    {
+        "date": "1986/12/28",
+        " temperature": "   76"
+    },
+    {
+        "date": "1986/12/29",
+        " temperature": "   96"
+    },
+    {
+        "date": "1986/12/30",
+        " temperature": "   94"
+    },
+    {
+        "date": "1986/12/31",
+        " temperature": "   85"
+    }
+]
