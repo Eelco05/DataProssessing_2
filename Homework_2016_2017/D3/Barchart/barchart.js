@@ -9,8 +9,11 @@ var y = d3.scale.linear()
     .range([height, 0]);
 
 var xAxis = d3.svg.axis()
-    .scale(x)
+    .ticks(12)
+    .tickValues(["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Okt", "Nov", "Dec"])
     .orient("bottom");
+    // .tickValues(["Januari", "Februari", "March"])
+    //
 
 var yAxis = d3.svg.axis()
     .scale(y)
@@ -22,8 +25,8 @@ var chart = d3.select(".chart")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("data.json", type, function(data) {
-	console.log(data);
+d3.json("data.json", function(error, data) {
+	console.log(data[0]);
 	x.domain(data.map(function(d) { return d.Date; }));
 	y.domain([0, d3.max(data, function(d) { return d.Rainfall; })]);
 
