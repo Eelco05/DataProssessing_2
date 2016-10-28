@@ -33,7 +33,7 @@ d3.json("data.json", function(error, data) {
 		.attr('class', 'd3-tip')
 		.offset([-10, 0])
 		.html(function(d) {
-			return "<strong>Rainfall:</strong> <span style='color:red'>" + d.Rainfall + "</span>";
+			return "<strong>Rainfall:</strong> <span style='color:white'>" + d.Rainfall + "</span>";
 	})
 
 	chart.call(tip);
@@ -75,17 +75,9 @@ d3.json("data.json", function(error, data) {
 			.attr("y", function(d) { return y(d.Rainfall); })
 			.attr("height", function(d) { return (height - y(d.Rainfall)); })
 			.attr("width", x.rangeBand())
-			.on('mouseover', function(d) {
-				originalColor = this.style.fill;
-				d3.select(this)
-				.tip.show
-				    .style('fill', '#3c763d')			    
-			})
-			.on('mouseout', function(d) {
-				d3.select(this)
-				.tip.hide
-				    .style('fill', originalColor)
-			});
+			.on('mouseover', tip.show)
+      		.on('mouseout', tip.hide)
+});
 
 	// chart.selectAll(".bar.data")
 	// 	.data(data)
@@ -99,8 +91,7 @@ d3.json("data.json", function(error, data) {
 	// 			.attr("font-family", "sans-serif")
 	// 			.attr("font-size", "11px")
 	// 			.attr("fill", "black");
-	// })	
-});
+	// })
 
 function type(d) {
 	d.Rainfall = +d.Rainfall; // coerce to number
