@@ -81,16 +81,13 @@ d3.json("data.json", function(error, data) {
 	chart.selectAll(".bar.data")
 		.data(data)
 		.enter().append("text")
-		.on("mouseover", function(d) {
-			d3.select("text")
-				.attr("text-anchor", "middle")
-			.text(function(d) { return d.Rainfall; })
-				.attr("x", function(d, i) { return x(d.Date) + barPadding; })
-				.attr("y", function(d) { return height - (height - y(d.Rainfall)); })
-				.attr("font-family", "sans-serif")
-				.attr("font-size", "11px")
-				.attr("fill", "black");
-		})		
+			.attr("text-anchor", "middle")
+		.text(function(d) { console.log(y(d.Rainfall)); return d.Rainfall; })
+			.attr("x", function(d, i) { return x(d.Date) + barPadding; })
+			.attr("y", function(d) { return height - (height - y(d.Rainfall)); })
+			.attr("font-family", "sans-serif")
+			.attr("font-size", "11px")
+			.attr("fill", "black");		
 });
 
 function type(d) {
