@@ -29,7 +29,14 @@ d3.json("data.json", function(error, data) {
 	x.domain(data.map(function(d) { return d.Date; }));
 	y.domain([0, d3.max(data, function(d) { return +d.Rainfall; })]);
 
-	//console.log(d3.max(data, function(d) { return +d.Rainfall; }))
+	var tip = d3.tip()
+		.attr('class', 'd3-tip')
+		.offset([-10, 0])
+		.html(function(d) {
+			return "<strong>Rainfall:</strong> <span style='color:red'>" + d.Rainfall + "</span>";
+	})
+
+	chart.call(tip);
 
 	chart.append("g")
 			.attr("class", "x axis")
@@ -71,23 +78,28 @@ d3.json("data.json", function(error, data) {
 			.on('mouseover', function(d) {
 				originalColor = this.style.fill;
 				d3.select(this)
+				.tip.show
 				    .style('fill', '#3c763d')			    
 			})
 			.on('mouseout', function(d) {
 				d3.select(this)
+				.tip.hide
 				    .style('fill', originalColor)
 			});
 
-	chart.selectAll(".bar.data")
-		.data(data)
-		.enter().append("text")
-			.attr("text-anchor", "middle")
-		.text(function(d) { console.log(y(d.Rainfall)); return d.Rainfall; })
-			.attr("x", function(d, i) { return x(d.Date) + barPadding; })
-			.attr("y", function(d) { return height - (height - y(d.Rainfall)); })
-			.attr("font-family", "sans-serif")
-			.attr("font-size", "11px")
-			.attr("fill", "black");		
+	// chart.selectAll(".bar.data")
+	// 	.data(data)
+	// 	.enter().append("text")
+	// 	.on('mouseover', function(d) {
+	// 		d3.select(this)
+	// 			.attr("text-anchor", "middle")
+	// 		.text(function(d) { return y(d.Rainfall); })
+	// 			.attr("x", function(d, i) { return x(d.Date) + barPadding; })
+	// 			.attr("y", function(d) { return height - (height - y(d.Rainfall)); })
+	// 			.attr("font-family", "sans-serif")
+	// 			.attr("font-size", "11px")
+	// 			.attr("fill", "black");
+	// })	
 });
 
 function type(d) {
