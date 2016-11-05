@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
+<style>
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    padding: 40px;
+}
+h1{
+  font-size: 3em;
+  font-weight: 700;
+  color: #000;
+}
+.countries {
+    stroke: #fff;
+    stroke-width: 1px;
+}
+.countries:hover{
+  opacity: .6;
+}
+
+.legendLinear text {
+    font-size: 12px;
+}
+.d3-tip {
+  line-height: 1;
+  padding: 12px;
+  background: rgba(43,43,43, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+
+
+</style>
+<body>
+
+    <h1>World Income Groups</h1>
+
+    <p>This map shows the income group of each country</p>
+
+    <div id="vis"></div>
+
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/queue.v1.min.js"></script>
+<script src="d3-legend.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+<script>
+
+var width = 1000,
+    height = 650;
+
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-5, 0])
+  .html(function(d) {
+    var dataRow = countryById.get(d.id);
+      if (dataRow) {
+          //console.log(dataRow);
+          return dataRow.ShortName + ": " + dataRow.IncomeGroup;
+      } else {
+          //console.log("no dataRow", d);
+          return d.properties.name + ": No data.";
+      }
+  })
+
+var svg = d3.select('#vis').append('svg')
+    .attr('width', width)
+    .attr('height', height);
+
+svg.call(tip);
+
+var projection = d3.geo.mercator()
+    .scale(150) // mess with this if you want
+    .translate([width / 2, 450]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var colorScale = d3.scale.ordinal().domain(["Low income","Lower middle income","Upper middle income","High income: nonOECD","High income: OECD"]).range(["#d7191c","#fdae61","#fee08b","#abdda4","#2b83ba"]);
+console.log(colorScale.domain());
+
+var countryById = d3.map();
+
+// we use queue because we have 2 data files to load.
+queue()
+    .defer(d3.json, "countries.json")
+    .defer(d3.csv, "World_Development_Indicators_Metadata_Countries.csv", typeAndSet) // process
+    .await(loaded);
+
+function typeAndSet(d) {
+    countryById.set(d.ISO3, d);
+    return d;
+}
+
+function getColor(d) {
+    var dataRow = countryById.get(d.id);
+    if (dataRow) {
+        console.log(dataRow.IncomeGroup, colorScale(dataRow.IncomeGroup));
+        return colorScale(dataRow.IncomeGroup);
+    } else {
+        //console.log("no dataRow", d);
+        return "#d3d3d3";
+    }
+}
+
+
+function loaded(error, world, info) {
+
+    //console.log(world);
+    //console.log(info);
+
+
+    var countries = topojson.feature(world, world.objects.units).features;
+
+    svg.selectAll('path.countries')
+        .data(countries)
+        .enter()
+        .append('path')
+        .attr('class', 'countries')
+        .attr('d', path)
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide)
+        .attr('fill', function(d,i) {
+            //console.log(d.properties.name);
+            return getColor(d);
+        })
+        .append("title")
+
+    var linear = colorScale;
+
+    svg.append("g")
+      .attr("class", "legendLinear")
+      .attr("transform", "translate(20,20)");
+
+    console.log(linear.domain());
+
+    var legendLinear = d3.legend.color()
+      .shapeWidth(30)
+      .orient('vertical')
+      .scale(linear);
+
+    svg.select(".legendLinear")
+      .call(legendLinear);
+
+}
+
+</script>
+</body>
+</html>

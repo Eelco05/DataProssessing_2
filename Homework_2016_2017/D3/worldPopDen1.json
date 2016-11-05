@@ -1,0 +1,1242 @@
+[
+    {
+        "Country Name": "Arab World",
+        "Country Code": "ARB",
+        "2010": "26.27252158"
+    },
+    {
+        "Country Name": "Caribbean small states",
+        "Country Code": "CSS",
+        "2010": "16.99394838"
+    },
+    {
+        "Country Name": "East Asia & Pacific (all income levels)",
+        "Country Code": "EAS",
+        "2010": "90.5121746"
+    },
+    {
+        "Country Name": "East Asia & Pacific (developing only)",
+        "Country Code": "EAP",
+        "2010": "123.7291574"
+    },
+    {
+        "Country Name": "Euro area",
+        "Country Code": "EMU",
+        "2010": "130.02375"
+    },
+    {
+        "Country Name": "Europe & Central Asia (all income levels)",
+        "Country Code": "ECS",
+        "2010": "32.5201301"
+    },
+    {
+        "Country Name": "Europe & Central Asia (developing only)",
+        "Country Code": "ECA",
+        "2010": "17.81288975"
+    },
+    {
+        "Country Name": "European Union",
+        "Country Code": "EUU",
+        "2010": "120.0759016"
+    },
+    {
+        "Country Name": "Heavily indebted poor countries (HIPC)",
+        "Country Code": "HPC",
+        "2010": "31.87531748"
+    },
+    {
+        "Country Name": "High income",
+        "Country Code": "HIC",
+        "2010": "33.16725736"
+    },
+    {
+        "Country Name": "High income: nonOECD",
+        "Country Code": "NOC",
+        "2010": "29.73359027"
+    },
+    {
+        "Country Name": "High income: OECD",
+        "Country Code": "OEC",
+        "2010": "33.52018868"
+    },
+    {
+        "Country Name": "Latin America & Caribbean (all income levels)",
+        "Country Code": "LCN",
+        "2010": "29.24236031"
+    },
+    {
+        "Country Name": "Latin America & Caribbean (developing only)",
+        "Country Code": "LAC",
+        "2010": "28.9592875"
+    },
+    {
+        "Country Name": "Least developed countries: UN classification",
+        "Country Code": "LDC",
+        "2010": "41.41337248"
+    },
+    {
+        "Country Name": "Low & middle income",
+        "Country Code": "LMY",
+        "2010": "60.25139645"
+    },
+    {
+        "Country Name": "Low income",
+        "Country Code": "LIC",
+        "2010": "52.92582003"
+    },
+    {
+        "Country Name": "Lower middle income",
+        "Country Code": "LMC",
+        "2010": "110.5328079"
+    },
+    {
+        "Country Name": "Middle East & North Africa (all income levels)",
+        "Country Code": "MEA",
+        "2010": "34.06936104"
+    },
+    {
+        "Country Name": "Middle East & North Africa (developing only)",
+        "Country Code": "MNA",
+        "2010": "38.33587739"
+    },
+    {
+        "Country Name": "Middle income",
+        "Country Code": "MIC",
+        "2010": "61.6177144"
+    },
+    {
+        "Country Name": "North America",
+        "Country Code": "NAC",
+        "2010": "18.83339601"
+    },
+    {
+        "Country Name": "Not classified",
+        "Country Code": "INX",
+        "2010": ""
+    },
+    {
+        "Country Name": "OECD members",
+        "Country Code": "OED",
+        "2010": "36.06984937"
+    },
+    {
+        "Country Name": "Other small states",
+        "Country Code": "OSS",
+        "2010": "9.909104698"
+    },
+    {
+        "Country Name": "Pacific island small states",
+        "Country Code": "PSS",
+        "2010": "42.31925364"
+    },
+    {
+        "Country Name": "Small states",
+        "Country Code": "SST",
+        "2010": "12.23973468"
+    },
+    {
+        "Country Name": "South Asia",
+        "Country Code": "SAS",
+        "2010": "342.2910702"
+    },
+    {
+        "Country Name": "Sub-Saharan Africa (all income levels)",
+        "Country Code": "SSF",
+        "2010": "36.16710817"
+    },
+    {
+        "Country Name": "Sub-Saharan Africa (developing only)",
+        "Country Code": "SSA",
+        "2010": "36.18044053"
+    },
+    {
+        "Country Name": "Upper middle income",
+        "Country Code": "UMC",
+        "2010": "42.36197435"
+    },
+    {
+        "Country Name": "World",
+        "Country Code": "WLD",
+        "2010": "53.15362444"
+    },
+    {
+        "Country Name": "Afghanistan",
+        "Country Code": "AFG",
+        "2010": "52.71913282"
+    },
+    {
+        "Country Name": "Albania",
+        "Country Code": "ALB",
+        "2010": "116.9708029"
+    },
+    {
+        "Country Name": "Algeria",
+        "Country Code": "DZA",
+        "2010": "14.89163385"
+    },
+    {
+        "Country Name": "American Samoa",
+        "Country Code": "ASM",
+        "2010": "342.1"
+    },
+    {
+        "Country Name": "Andorra",
+        "Country Code": "AND",
+        "2010": "180.5617021"
+    },
+    {
+        "Country Name": "Angola",
+        "Country Code": "AGO",
+        "2010": "15.30600786"
+    },
+    {
+        "Country Name": "Antigua and Barbuda",
+        "Country Code": "ATG",
+        "2010": "200"
+    },
+    {
+        "Country Name": "Argentina",
+        "Country Code": "ARG",
+        "2010": "14.76674377"
+    },
+    {
+        "Country Name": "Armenia",
+        "Country Code": "ARM",
+        "2010": "108.5674157"
+    },
+    {
+        "Country Name": "Aruba",
+        "Country Code": "ABW",
+        "2010": "600"
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "2010": "2.902646343"
+    },
+    {
+        "Country Name": "Austria",
+        "Country Code": "AUT",
+        "2010": "101.7833313"
+    },
+    {
+        "Country Name": "Azerbaijan",
+        "Country Code": "AZE",
+        "2010": "109.5860566"
+    },
+    {
+        "Country Name": "Bahamas. The",
+        "Country Code": "BHS",
+        "2010": "34.26573427"
+    },
+    {
+        "Country Name": "Bahrain",
+        "Country Code": "BHR",
+        "2010": "1660.526316"
+    },
+    {
+        "Country Name": "Bangladesh",
+        "Country Code": "BGD",
+        "2010": "1142.29085"
+    },
+    {
+        "Country Name": "Barbados",
+        "Country Code": "BRB",
+        "2010": "637.2093023"
+    },
+    {
+        "Country Name": "Belarus",
+        "Country Code": "BLR",
+        "2010": "46.79025737"
+    },
+    {
+        "Country Name": "Belgium",
+        "Country Code": "BEL",
+        "2010": "359.8414795"
+    },
+    {
+        "Country Name": "Belize",
+        "Country Code": "BLZ",
+        "2010": "15.1249452"
+    },
+    {
+        "Country Name": "Benin",
+        "Country Code": "BEN",
+        "2010": "80.00361598"
+    },
+    {
+        "Country Name": "Bermuda",
+        "Country Code": "BMU",
+        "2010": "1292"
+    },
+    {
+        "Country Name": "Bhutan",
+        "Country Code": "BTN",
+        "2010": "18.91117479"
+    },
+    {
+        "Country Name": "Bolivia",
+        "Country Code": "BOL",
+        "2010": "9.165512785"
+    },
+    {
+        "Country Name": "Bosnia and Herzegovina",
+        "Country Code": "BIH",
+        "2010": "73.7254902"
+    },
+    {
+        "Country Name": "Botswana",
+        "Country Code": "BWA",
+        "2010": "3.541368906"
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BRA",
+        "2010": "23.04484232"
+    },
+    {
+        "Country Name": "Brunei Darussalam",
+        "Country Code": "BRN",
+        "2010": "75.71157495"
+    },
+    {
+        "Country Name": "Bulgaria",
+        "Country Code": "BGR",
+        "2010": "69.39941046"
+    },
+    {
+        "Country Name": "Burkina Faso",
+        "Country Code": "BFA",
+        "2010": "60.19005848"
+    },
+    {
+        "Country Name": "Burundi",
+        "Country Code": "BDI",
+        "2010": "326.4018692"
+    },
+    {
+        "Country Name": "Cambodia",
+        "Country Code": "KHM",
+        "2010": "80.0985724"
+    },
+    {
+        "Country Name": "Cameroon",
+        "Country Code": "CMR",
+        "2010": "41.460938"
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CAN",
+        "2010": "3.752786328"
+    },
+    {
+        "Country Name": "Cape Verde",
+        "Country Code": "CPV",
+        "2010": "123.0769231"
+    },
+    {
+        "Country Name": "Cayman Islands",
+        "Country Code": "CYM",
+        "2010": "234.2916667"
+    },
+    {
+        "Country Name": "Central African Republic",
+        "Country Code": "CAF",
+        "2010": "7.064432245"
+    },
+    {
+        "Country Name": "Chad",
+        "Country Code": "TCD",
+        "2010": "8.915978399"
+    },
+    {
+        "Country Name": "Channel Islands",
+        "Country Code": "CHI",
+        "2010": "807.1157895"
+    },
+    {
+        "Country Name": "Chile",
+        "Country Code": "CHL",
+        "2010": "23.01680901"
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "2010": "143.4792677"
+    },
+    {
+        "Country Name": "Colombia",
+        "Country Code": "COL",
+        "2010": "41.7260027"
+    },
+    {
+        "Country Name": "Comoros",
+        "Country Code": "COM",
+        "2010": "395.1612903"
+    },
+    {
+        "Country Name": "Congo. Dem. Rep.",
+        "Country Code": "COD",
+        "2010": "29.09728502"
+    },
+    {
+        "Country Name": "Congo. Rep.",
+        "Country Code": "COG",
+        "2010": "11.83894583"
+    },
+    {
+        "Country Name": "Costa Rica",
+        "Country Code": "CRI",
+        "2010": "91.24559342"
+    },
+    {
+        "Country Name": "Cote d'Ivoire",
+        "Country Code": "CIV",
+        "2010": "62.06918239"
+    },
+    {
+        "Country Name": "Croatia",
+        "Country Code": "HRV",
+        "2010": "78.94924946"
+    },
+    {
+        "Country Name": "Cuba",
+        "Country Code": "CUB",
+        "2010": "105.7685081"
+    },
+    {
+        "Country Name": "Curacao",
+        "Country Code": "CUW",
+        "2010": "321.3252236"
+    },
+    {
+        "Country Name": "Cyprus",
+        "Country Code": "CYP",
+        "2010": "119.3722944"
+    },
+    {
+        "Country Name": "Czech Republic",
+        "Country Code": "CZE",
+        "2010": "136.1812298"
+    },
+    {
+        "Country Name": "Denmark",
+        "Country Code": "DNK",
+        "2010": "130.732972"
+    },
+    {
+        "Country Name": "Djibouti",
+        "Country Code": "DJI",
+        "2010": "38.35202761"
+    },
+    {
+        "Country Name": "Dominica",
+        "Country Code": "DMA",
+        "2010": "90.66666667"
+    },
+    {
+        "Country Name": "Dominican Republic",
+        "Country Code": "DOM",
+        "2010": "205.4428808"
+    },
+    {
+        "Country Name": "Ecuador",
+        "Country Code": "ECU",
+        "2010": "58.24206797"
+    },
+    {
+        "Country Name": "Egypt. Arab Rep.",
+        "Country Code": "EGY",
+        "2010": "81.49178763"
+    },
+    {
+        "Country Name": "El Salvador",
+        "Country Code": "SLV",
+        "2010": "298.8899614"
+    },
+    {
+        "Country Name": "Equatorial Guinea",
+        "Country Code": "GNQ",
+        "2010": "24.95543672"
+    },
+    {
+        "Country Name": "Eritrea",
+        "Country Code": "ERI",
+        "2010": "52.01980198"
+    },
+    {
+        "Country Name": "Estonia",
+        "Country Code": "EST",
+        "2010": "31.61122906"
+    },
+    {
+        "Country Name": "Ethiopia",
+        "Country Code": "ETH",
+        "2010": "82.95"
+    },
+    {
+        "Country Name": "Faeroe Islands",
+        "Country Code": "FRO",
+        "2010": "35.04172662"
+    },
+    {
+        "Country Name": "Fiji",
+        "Country Code": "FJI",
+        "2010": "47.07170224"
+    },
+    {
+        "Country Name": "Finland",
+        "Country Code": "FIN",
+        "2010": "17.65054294"
+    },
+    {
+        "Country Name": "France",
+        "Country Code": "FRA",
+        "2010": "118.4950517"
+    },
+    {
+        "Country Name": "French Polynesia",
+        "Country Code": "PYF",
+        "2010": "74.04371585"
+    },
+    {
+        "Country Name": "Gabon",
+        "Country Code": "GAB",
+        "2010": "5.840804129"
+    },
+    {
+        "Country Name": "Gambia. The",
+        "Country Code": "GMB",
+        "2010": "172.9"
+    },
+    {
+        "Country Name": "Georgia",
+        "Country Code": "GEO",
+        "2010": "77.88935932"
+    },
+    {
+        "Country Name": "Germany",
+        "Country Code": "DEU",
+        "2010": "234.5801899"
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "2010": "107.1987343"
+    },
+    {
+        "Country Name": "Gibraltar",
+        "Country Code": "GIB",
+        "2010": "2924.4"
+    },
+    {
+        "Country Name": "Greece",
+        "Country Code": "GRC",
+        "2010": "87.78898371"
+    },
+    {
+        "Country Name": "Greenland",
+        "Country Code": "GRL",
+        "2010": "0.137736631"
+    },
+    {
+        "Country Name": "Grenada",
+        "Country Code": "GRD",
+        "2010": "305.8823529"
+    },
+    {
+        "Country Name": "Guam",
+        "Country Code": "GUM",
+        "2010": "331.4814815"
+    },
+    {
+        "Country Name": "Guatemala",
+        "Country Code": "GTM",
+        "2010": "134.2758492"
+    },
+    {
+        "Country Name": "Guinea",
+        "Country Code": "GIN",
+        "2010": "40.62347387"
+    },
+    {
+        "Country Name": "Guinea-Bissau",
+        "Country Code": "GNB",
+        "2010": "53.87624467"
+    },
+    {
+        "Country Name": "Guyana",
+        "Country Code": "GUY",
+        "2010": "3.835407671"
+    },
+    {
+        "Country Name": "Haiti",
+        "Country Code": "HTI",
+        "2010": "362.5907112"
+    },
+    {
+        "Country Name": "Honduras",
+        "Country Code": "HND",
+        "2010": "67.92385378"
+    },
+    {
+        "Country Name": "Hong Kong SAR. China",
+        "Country Code": "HKG",
+        "2010": "6783.109405"
+    },
+    {
+        "Country Name": "Hungary",
+        "Country Code": "HUN",
+        "2010": "110.4606208"
+    },
+    {
+        "Country Name": "Iceland",
+        "Country Code": "ISL",
+        "2010": "3.172069825"
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "2010": "411.8858869"
+    },
+    {
+        "Country Name": "Indonesia",
+        "Country Code": "IDN",
+        "2010": "132.410009"
+    },
+    {
+        "Country Name": "Iran. Islamic Rep.",
+        "Country Code": "IRN",
+        "2010": "45.42261521"
+    },
+    {
+        "Country Name": "Iraq",
+        "Country Code": "IRQ",
+        "2010": "73.74976976"
+    },
+    {
+        "Country Name": "Ireland",
+        "Country Code": "IRL",
+        "2010": "64.9586297"
+    },
+    {
+        "Country Name": "Isle of Man",
+        "Country Code": "IMN",
+        "2010": "145.3842105"
+    },
+    {
+        "Country Name": "Israel",
+        "Country Code": "ISR",
+        "2010": "352.310536"
+    },
+    {
+        "Country Name": "Italy",
+        "Country Code": "ITA",
+        "2010": "205.6265724"
+    },
+    {
+        "Country Name": "Jamaica",
+        "Country Code": "JAM",
+        "2010": "249.4921514"
+    },
+    {
+        "Country Name": "Japan",
+        "Country Code": "JPN",
+        "2010": "349.659808"
+    },
+    {
+        "Country Name": "Jordan",
+        "Country Code": "JOR",
+        "2010": "68.11218743"
+    },
+    {
+        "Country Name": "Kazakhstan",
+        "Country Code": "KAZ",
+        "2010": "6.046227359"
+    },
+    {
+        "Country Name": "Kenya",
+        "Country Code": "KEN",
+        "2010": "71.18283726"
+    },
+    {
+        "Country Name": "Kiribati",
+        "Country Code": "KIR",
+        "2010": "123.4567901"
+    },
+    {
+        "Country Name": "Korea. Dem. Rep.",
+        "Country Code": "PRK",
+        "2010": "202.1925089"
+    },
+    {
+        "Country Name": "Korea. Rep.",
+        "Country Code": "KOR",
+        "2010": "503.3470649"
+    },
+    {
+        "Country Name": "Kosovo",
+        "Country Code": "KSV",
+        "2010": "166.712593"
+    },
+    {
+        "Country Name": "Kuwait",
+        "Country Code": "KWT",
+        "2010": "153.5353535"
+    },
+    {
+        "Country Name": "Kyrgyz Republic",
+        "Country Code": "KGZ",
+        "2010": "28.40458811"
+    },
+    {
+        "Country Name": "Lao PDR",
+        "Country Code": "LAO",
+        "2010": "26.86741768"
+    },
+    {
+        "Country Name": "Latvia",
+        "Country Code": "LVA",
+        "2010": "36.00836282"
+    },
+    {
+        "Country Name": "Lebanon",
+        "Country Code": "LBN",
+        "2010": "413.1964809"
+    },
+    {
+        "Country Name": "Lesotho",
+        "Country Code": "LSO",
+        "2010": "71.5085639"
+    },
+    {
+        "Country Name": "Liberia",
+        "Country Code": "LBR",
+        "2010": "41.46594684"
+    },
+    {
+        "Country Name": "Libya",
+        "Country Code": "LBY",
+        "2010": "3.611739432"
+    },
+    {
+        "Country Name": "Liechtenstein",
+        "Country Code": "LIE",
+        "2010": "225.2"
+    },
+    {
+        "Country Name": "Lithuania",
+        "Country Code": "LTU",
+        "2010": "52.4493378"
+    },
+    {
+        "Country Name": "Luxembourg",
+        "Country Code": "LUX",
+        "2010": "195.7528958"
+    },
+    {
+        "Country Name": "Macao SAR. China",
+        "Country Code": "MAC",
+        "2010": "19428.57143"
+    },
+    {
+        "Country Name": "Macedonia. FYR",
+        "Country Code": "MKD",
+        "2010": "81.68120539"
+    },
+    {
+        "Country Name": "Madagascar",
+        "Country Code": "MDG",
+        "2010": "35.61921794"
+    },
+    {
+        "Country Name": "Malawi",
+        "Country Code": "MWI",
+        "2010": "158.0504879"
+    },
+    {
+        "Country Name": "Malaysia",
+        "Country Code": "MYS",
+        "2010": "86.4434637"
+    },
+    {
+        "Country Name": "Maldives",
+        "Country Code": "MDV",
+        "2010": "1053.333333"
+    },
+    {
+        "Country Name": "Mali",
+        "Country Code": "MLI",
+        "2010": "12.59639892"
+    },
+    {
+        "Country Name": "Malta",
+        "Country Code": "MLT",
+        "2010": "1300"
+    },
+    {
+        "Country Name": "Marshall Islands",
+        "Country Code": "MHL",
+        "2010": "300.2111111"
+    },
+    {
+        "Country Name": "Mauritania",
+        "Country Code": "MRT",
+        "2010": "3.356941884"
+    },
+    {
+        "Country Name": "Mauritius",
+        "Country Code": "MUS",
+        "2010": "631.0344828"
+    },
+    {
+        "Country Name": "Mayotte",
+        "Country Code": "MYT",
+        "2010": "551.3513514"
+    },
+    {
+        "Country Name": "Mexico",
+        "Country Code": "MEX",
+        "2010": "58.34666529"
+    },
+    {
+        "Country Name": "Micronesia. Fed. Sts.",
+        "Country Code": "FSM",
+        "2010": "158.5714286"
+    },
+    {
+        "Country Name": "Moldova",
+        "Country Code": "MDA",
+        "2010": "123.9948481"
+    },
+    {
+        "Country Name": "Monaco",
+        "Country Code": "MCO",
+        "2010": "17703.5"
+    },
+    {
+        "Country Name": "Mongolia",
+        "Country Code": "MNG",
+        "2010": "1.773990062"
+    },
+    {
+        "Country Name": "Montenegro",
+        "Country Code": "MNE",
+        "2010": "46.98884758"
+    },
+    {
+        "Country Name": "Morocco",
+        "Country Code": "MAR",
+        "2010": "71.59085817"
+    },
+    {
+        "Country Name": "Mozambique",
+        "Country Code": "MOZ",
+        "2010": "29.74388972"
+    },
+    {
+        "Country Name": "Myanmar",
+        "Country Code": "MMR",
+        "2010": "73.39178602"
+    },
+    {
+        "Country Name": "Namibia",
+        "Country Code": "NAM",
+        "2010": "2.773020442"
+    },
+    {
+        "Country Name": "Nepal",
+        "Country Code": "NPL",
+        "2010": "208.9919777"
+    },
+    {
+        "Country Name": "Netherlands",
+        "Country Code": "NLD",
+        "2010": "492.6178476"
+    },
+    {
+        "Country Name": "New Caledonia",
+        "Country Code": "NCL",
+        "2010": "13.51203501"
+    },
+    {
+        "Country Name": "New Zealand",
+        "Country Code": "NZL",
+        "2010": "16.58881167"
+    },
+    {
+        "Country Name": "Nicaragua",
+        "Country Code": "NIC",
+        "2010": "48.10536812"
+    },
+    {
+        "Country Name": "Niger",
+        "Country Code": "NER",
+        "2010": "12.24599353"
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "2010": "173.9440254"
+    },
+    {
+        "Country Name": "Northern Mariana Islands",
+        "Country Code": "MNP",
+        "2010": "132.4282609"
+    },
+    {
+        "Country Name": "Norway",
+        "Country Code": "NOR",
+        "2010": "16.00484499"
+    },
+    {
+        "Country Name": "Oman",
+        "Country Code": "OMN",
+        "2010": "8.991922456"
+    },
+    {
+        "Country Name": "Pakistan",
+        "Country Code": "PAK",
+        "2010": "225.1880967"
+    },
+    {
+        "Country Name": "Palau",
+        "Country Code": "PLW",
+        "2010": "44.50434783"
+    },
+    {
+        "Country Name": "Panama",
+        "Country Code": "PAN",
+        "2010": "47.30965833"
+    },
+    {
+        "Country Name": "Papua New Guinea",
+        "Country Code": "PNG",
+        "2010": "15.14375304"
+    },
+    {
+        "Country Name": "Paraguay",
+        "Country Code": "PRY",
+        "2010": "16.2446514"
+    },
+    {
+        "Country Name": "Peru",
+        "Country Code": "PER",
+        "2010": "22.715625"
+    },
+    {
+        "Country Name": "Philippines",
+        "Country Code": "PHL",
+        "2010": "312.7779455"
+    },
+    {
+        "Country Name": "Poland",
+        "Country Code": "POL",
+        "2010": "125.5226824"
+    },
+    {
+        "Country Name": "Portugal",
+        "Country Code": "PRT",
+        "2010": "116.3004264"
+    },
+    {
+        "Country Name": "Puerto Rico",
+        "Country Code": "PRI",
+        "2010": "448.4780158"
+    },
+    {
+        "Country Name": "Qatar",
+        "Country Code": "QAT",
+        "2010": "151.7687662"
+    },
+    {
+        "Country Name": "Romania",
+        "Country Code": "ROU",
+        "2010": "93.18438668"
+    },
+    {
+        "Country Name": "Russia",
+        "Country Code": "RUS",
+        "2010": "8.655500105"
+    },
+    {
+        "Country Name": "Rwanda",
+        "Country Code": "RWA",
+        "2010": "430.6445075"
+    },
+    {
+        "Country Name": "Samoa",
+        "Country Code": "WSM",
+        "2010": "65.01766784"
+    },
+    {
+        "Country Name": "San Marino",
+        "Country Code": "SMR",
+        "2010": "525.5666667"
+    },
+    {
+        "Country Name": "Sao Tome and Principe",
+        "Country Code": "STP",
+        "2010": "171.875"
+    },
+    {
+        "Country Name": "Saudi Arabia",
+        "Country Code": "SAU",
+        "2010": "12.76835265"
+    },
+    {
+        "Country Name": "Senegal",
+        "Country Code": "SEN",
+        "2010": "64.58214304"
+    },
+    {
+        "Country Name": "Serbia",
+        "Country Code": "SRB",
+        "2010": "83.36382346"
+    },
+    {
+        "Country Name": "Seychelles",
+        "Country Code": "SYC",
+        "2010": "189.1304348"
+    },
+    {
+        "Country Name": "Sierra Leone",
+        "Country Code": "SLE",
+        "2010": "81.91845853"
+    },
+    {
+        "Country Name": "Singapore",
+        "Country Code": "SGP",
+        "2010": "7252.857143"
+    },
+    {
+        "Country Name": "Sint Maarten (Dutch part)",
+        "Country Code": "SXM",
+        "2010": "1113.248771"
+    },
+    {
+        "Country Name": "Slovak Republic",
+        "Country Code": "SVK",
+        "2010": "112.9132876"
+    },
+    {
+        "Country Name": "Slovenia",
+        "Country Code": "SVN",
+        "2010": "101.7378352"
+    },
+    {
+        "Country Name": "Solomon Islands",
+        "Country Code": "SLB",
+        "2010": "19.22115041"
+    },
+    {
+        "Country Name": "Somalia",
+        "Country Code": "SOM",
+        "2010": "14.87391207"
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZAF",
+        "2010": "41.16281176"
+    },
+    {
+        "Country Name": "South Sudan",
+        "Country Code": "SSD",
+        "2010": ""
+    },
+    {
+        "Country Name": "Spain",
+        "Country Code": "ESP",
+        "2010": "92.36367281"
+    },
+    {
+        "Country Name": "Sri Lanka",
+        "Country Code": "LKA",
+        "2010": "332.6423218"
+    },
+    {
+        "Country Name": "St. Kitts and Nevis",
+        "Country Code": "KNA",
+        "2010": "200"
+    },
+    {
+        "Country Name": "St. Lucia",
+        "Country Code": "LCA",
+        "2010": "285.2459016"
+    },
+    {
+        "Country Name": "St. Martin (French part)",
+        "Country Code": "MAF",
+        "2010": "555.7904412"
+    },
+    {
+        "Country Name": "St. Vincent and the Grenadines",
+        "Country Code": "VCT",
+        "2010": "279.4871795"
+    },
+    {
+        "Country Name": "Sudan",
+        "Country Code": "SDN",
+        "2010": "18.32996633"
+    },
+    {
+        "Country Name": "Suriname",
+        "Country Code": "SUR",
+        "2010": "3.365384615"
+    },
+    {
+        "Country Name": "Swaziland",
+        "Country Code": "SWZ",
+        "2010": "61.39534884"
+    },
+    {
+        "Country Name": "Sweden",
+        "Country Code": "SWE",
+        "2010": "22.85421845"
+    },
+    {
+        "Country Name": "Switzerland",
+        "Country Code": "CHE",
+        "2010": "195.65"
+    },
+    {
+        "Country Name": "Syrian Arab Republic",
+        "Country Code": "SYR",
+        "2010": "111.3489081"
+    },
+    {
+        "Country Name": "Tajikistan",
+        "Country Code": "TJK",
+        "2010": "49.14975707"
+    },
+    {
+        "Country Name": "Tanzania",
+        "Country Code": "TZA",
+        "2010": "50.62203658"
+    },
+    {
+        "Country Name": "Thailand",
+        "Country Code": "THA",
+        "2010": "135.2972264"
+    },
+    {
+        "Country Name": "Timor-Leste",
+        "Country Code": "TLS",
+        "2010": "75.58843309"
+    },
+    {
+        "Country Name": "Togo",
+        "Country Code": "TGO",
+        "2010": "110.8291965"
+    },
+    {
+        "Country Name": "Tonga",
+        "Country Code": "TON",
+        "2010": "144.4444444"
+    },
+    {
+        "Country Name": "Trinidad and Tobago",
+        "Country Code": "TTO",
+        "2010": "261.4035088"
+    },
+    {
+        "Country Name": "Tunisia",
+        "Country Code": "TUN",
+        "2010": "67.90036045"
+    },
+    {
+        "Country Name": "Turkey",
+        "Country Code": "TUR",
+        "2010": "94.52853969"
+    },
+    {
+        "Country Name": "Turkmenistan",
+        "Country Code": "TKM",
+        "2010": "10.72925755"
+    },
+    {
+        "Country Name": "Turks and Caicos Islands",
+        "Country Code": "TCA",
+        "2010": "40.37263158"
+    },
+    {
+        "Country Name": "Tuvalu",
+        "Country Code": "TUV",
+        "2010": "327.5666667"
+    },
+    {
+        "Country Name": "Uganda",
+        "Country Code": "UGA",
+        "2010": "167.278915"
+    },
+    {
+        "Country Name": "Ukraine",
+        "Country Code": "UKR",
+        "2010": "79.18076365"
+    },
+    {
+        "Country Name": "United Arab Emirates",
+        "Country Code": "ARE",
+        "2010": "89.85645933"
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "2010": "257.2314306"
+    },
+    {
+        "Country Name": "United States of America",
+        "Country Code": "USA",
+        "2010": "33.81816949"
+    },
+    {
+        "Country Name": "Uruguay",
+        "Country Code": "URY",
+        "2010": "19.18066507"
+    },
+    {
+        "Country Name": "Uzbekistan",
+        "Country Code": "UZB",
+        "2010": "66.35637047"
+    },
+    {
+        "Country Name": "Vanuatu",
+        "Country Code": "VUT",
+        "2010": "19.68826907"
+    },
+    {
+        "Country Name": "Venezuela. RB",
+        "Country Code": "VEN",
+        "2010": "32.68975682"
+    },
+    {
+        "Country Name": "Vietnam",
+        "Country Code": "VNM",
+        "2010": "280.3495985"
+    },
+    {
+        "Country Name": "Virgin Islands (U.S.)",
+        "Country Code": "VIR",
+        "2010": "314.2857143"
+    },
+    {
+        "Country Name": "West Bank and Gaza",
+        "Country Code": "PSE",
+        "2010": "689.7009967"
+    },
+    {
+        "Country Name": "Yemen. Rep.",
+        "Country Code": "YEM",
+        "2010": "45.55751274"
+    },
+    {
+        "Country Name": "Zambia",
+        "Country Code": "ZMB",
+        "2010": "17.38925732"
+    },
+    {
+        "Country Name": "Zimbabwe",
+        "Country Code": "ZWE",
+        "2010": "32.49579941"
+    }
+]
