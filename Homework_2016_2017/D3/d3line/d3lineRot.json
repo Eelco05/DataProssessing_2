@@ -1,0 +1,219 @@
+[
+    {
+        "dagGemTemp": "56",
+        "stad": "Rotterdam",
+        "dag": "2016/01/01",
+        "dagMinTemp": "17",
+        "dagMaxTemp": "87"
+    },
+    {
+        "dagGemTemp": "69",
+        "stad": "Rotterdam",
+        "dag": "2016/01/02",
+        "dagMinTemp": "53",
+        "dagMaxTemp": "83"
+    },
+    {
+        "dagGemTemp": "73",
+        "stad": "Rotterdam",
+        "dag": "2016/01/03",
+        "dagMinTemp": "48",
+        "dagMaxTemp": "88"
+    },
+    {
+        "dagGemTemp": "66",
+        "stad": "Rotterdam",
+        "dag": "2016/01/04",
+        "dagMinTemp": "46",
+        "dagMaxTemp": "79"
+    },
+    {
+        "dagGemTemp": "70",
+        "stad": "Rotterdam",
+        "dag": "2016/01/05",
+        "dagMinTemp": "59",
+        "dagMaxTemp": "79"
+    },
+    {
+        "dagGemTemp": "54",
+        "stad": "Rotterdam",
+        "dag": "2016/01/06",
+        "dagMinTemp": "42",
+        "dagMaxTemp": "69"
+    },
+    {
+        "dagGemTemp": "68",
+        "stad": "Rotterdam",
+        "dag": "2016/01/07",
+        "dagMinTemp": "57",
+        "dagMaxTemp": "89"
+    },
+    {
+        "dagGemTemp": "60",
+        "stad": "Rotterdam",
+        "dag": "2016/01/08",
+        "dagMinTemp": "33",
+        "dagMaxTemp": "82"
+    },
+    {
+        "dagGemTemp": "64",
+        "stad": "Rotterdam",
+        "dag": "2016/01/09",
+        "dagMinTemp": "35",
+        "dagMaxTemp": "82"
+    },
+    {
+        "dagGemTemp": "69",
+        "stad": "Rotterdam",
+        "dag": "2016/01/10",
+        "dagMinTemp": "49",
+        "dagMaxTemp": "89"
+    },
+    {
+        "dagGemTemp": "57",
+        "stad": "Rotterdam",
+        "dag": "2016/01/11",
+        "dagMinTemp": "34",
+        "dagMaxTemp": "74"
+    },
+    {
+        "dagGemTemp": "65",
+        "stad": "Rotterdam",
+        "dag": "2016/01/12",
+        "dagMinTemp": "50",
+        "dagMaxTemp": "75"
+    },
+    {
+        "dagGemTemp": "54",
+        "stad": "Rotterdam",
+        "dag": "2016/01/13",
+        "dagMinTemp": "25",
+        "dagMaxTemp": "71"
+    },
+    {
+        "dagGemTemp": "42",
+        "stad": "Rotterdam",
+        "dag": "2016/01/14",
+        "dagMinTemp": "23",
+        "dagMaxTemp": "58"
+    },
+    {
+        "dagGemTemp": "27",
+        "stad": "Rotterdam",
+        "dag": "2016/01/15",
+        "dagMinTemp": "4",
+        "dagMaxTemp": "48"
+    },
+    {
+        "dagGemTemp": "35",
+        "stad": "Rotterdam",
+        "dag": "2016/01/16",
+        "dagMinTemp": "1",
+        "dagMaxTemp": "64"
+    },
+    {
+        "dagGemTemp": "-2",
+        "stad": "Rotterdam",
+        "dag": "2016/01/17",
+        "dagMinTemp": "-49",
+        "dagMaxTemp": "32"
+    },
+    {
+        "dagGemTemp": "-19",
+        "stad": "Rotterdam",
+        "dag": "2016/01/18",
+        "dagMinTemp": "-36",
+        "dagMaxTemp": "5"
+    },
+    {
+        "dagGemTemp": "-10",
+        "stad": "Rotterdam",
+        "dag": "2016/01/19",
+        "dagMinTemp": "-68",
+        "dagMaxTemp": "20"
+    },
+    {
+        "dagGemTemp": "21",
+        "stad": "Rotterdam",
+        "dag": "2016/01/20",
+        "dagMinTemp": "-21",
+        "dagMaxTemp": "53"
+    },
+    {
+        "dagGemTemp": "-1",
+        "stad": "Rotterdam",
+        "dag": "2016/01/21",
+        "dagMinTemp": "-35",
+        "dagMaxTemp": "13"
+    },
+    {
+        "dagGemTemp": "24",
+        "stad": "Rotterdam",
+        "dag": "2016/01/22",
+        "dagMinTemp": "-8",
+        "dagMaxTemp": "73"
+    },
+    {
+        "dagGemTemp": "73",
+        "stad": "Rotterdam",
+        "dag": "2016/01/23",
+        "dagMinTemp": "40",
+        "dagMaxTemp": "98"
+    },
+    {
+        "dagGemTemp": "81",
+        "stad": "Rotterdam",
+        "dag": "2016/01/24",
+        "dagMinTemp": "55",
+        "dagMaxTemp": "107"
+    },
+    {
+        "dagGemTemp": "104",
+        "stad": "Rotterdam",
+        "dag": "2016/01/25",
+        "dagMinTemp": "72",
+        "dagMaxTemp": "140"
+    },
+    {
+        "dagGemTemp": "91",
+        "stad": "Rotterdam",
+        "dag": "2016/01/26",
+        "dagMinTemp": "67",
+        "dagMaxTemp": "105"
+    },
+    {
+        "dagGemTemp": "107",
+        "stad": "Rotterdam",
+        "dag": "2016/01/27",
+        "dagMinTemp": "83",
+        "dagMaxTemp": "119"
+    },
+    {
+        "dagGemTemp": "66",
+        "stad": "Rotterdam",
+        "dag": "2016/01/28",
+        "dagMinTemp": "47",
+        "dagMaxTemp": "91"
+    },
+    {
+        "dagGemTemp": "87",
+        "stad": "Rotterdam",
+        "dag": "2016/01/29",
+        "dagMinTemp": "60",
+        "dagMaxTemp": "104"
+    },
+    {
+        "dagGemTemp": "75",
+        "stad": "Rotterdam",
+        "dag": "2016/01/30",
+        "dagMinTemp": "47",
+        "dagMaxTemp": "97"
+    },
+    {
+        "dagGemTemp": "76",
+        "stad": "Rotterdam",
+        "dag": "2016/01/31",
+        "dagMinTemp": "52",
+        "dagMaxTemp": "117"
+    }
+]

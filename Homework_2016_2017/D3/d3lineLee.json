@@ -1,0 +1,219 @@
+[
+    {
+        "dagGemTemp": "50",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/01",
+        "dagMinTemp": "3",
+        "dagMaxTemp": "90"
+    },
+    {
+        "dagGemTemp": "34",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/02",
+        "dagMinTemp": "21",
+        "dagMaxTemp": "45"
+    },
+    {
+        "dagGemTemp": "11",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/03",
+        "dagMinTemp": "-2",
+        "dagMaxTemp": "21"
+    },
+    {
+        "dagGemTemp": "-18",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/04",
+        "dagMinTemp": "-32",
+        "dagMaxTemp": "13"
+    },
+    {
+        "dagGemTemp": "-21",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/05",
+        "dagMinTemp": "-33",
+        "dagMaxTemp": "-12"
+    },
+    {
+        "dagGemTemp": "-34",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/06",
+        "dagMinTemp": "-42",
+        "dagMaxTemp": "-26"
+    },
+    {
+        "dagGemTemp": "10",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/07",
+        "dagMinTemp": "-26",
+        "dagMaxTemp": "65"
+    },
+    {
+        "dagGemTemp": "55",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/08",
+        "dagMinTemp": "21",
+        "dagMaxTemp": "83"
+    },
+    {
+        "dagGemTemp": "42",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/09",
+        "dagMinTemp": "9",
+        "dagMaxTemp": "62"
+    },
+    {
+        "dagGemTemp": "57",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/10",
+        "dagMinTemp": "37",
+        "dagMaxTemp": "73"
+    },
+    {
+        "dagGemTemp": "42",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/11",
+        "dagMinTemp": "28",
+        "dagMaxTemp": "58"
+    },
+    {
+        "dagGemTemp": "53",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/12",
+        "dagMinTemp": "31",
+        "dagMaxTemp": "76"
+    },
+    {
+        "dagGemTemp": "41",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/13",
+        "dagMinTemp": "14",
+        "dagMaxTemp": "71"
+    },
+    {
+        "dagGemTemp": "24",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/14",
+        "dagMinTemp": "6",
+        "dagMaxTemp": "53"
+    },
+    {
+        "dagGemTemp": "20",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/15",
+        "dagMinTemp": "-7",
+        "dagMaxTemp": "46"
+    },
+    {
+        "dagGemTemp": "21",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/16",
+        "dagMinTemp": "-5",
+        "dagMaxTemp": "47"
+    },
+    {
+        "dagGemTemp": "-4",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/17",
+        "dagMinTemp": "-39",
+        "dagMaxTemp": "32"
+    },
+    {
+        "dagGemTemp": "-26",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/18",
+        "dagMinTemp": "-43",
+        "dagMaxTemp": "-5"
+    },
+    {
+        "dagGemTemp": "-5",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/19",
+        "dagMinTemp": "-45",
+        "dagMaxTemp": "25"
+    },
+    {
+        "dagGemTemp": "9",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/20",
+        "dagMinTemp": "-38",
+        "dagMaxTemp": "46"
+    },
+    {
+        "dagGemTemp": "-16",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/21",
+        "dagMinTemp": "-46",
+        "dagMaxTemp": "0"
+    },
+    {
+        "dagGemTemp": "0",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/22",
+        "dagMinTemp": "-26",
+        "dagMaxTemp": "33"
+    },
+    {
+        "dagGemTemp": "59",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/23",
+        "dagMinTemp": "33",
+        "dagMaxTemp": "89"
+    },
+    {
+        "dagGemTemp": "68",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/24",
+        "dagMinTemp": "45",
+        "dagMaxTemp": "96"
+    },
+    {
+        "dagGemTemp": "98",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/25",
+        "dagMinTemp": "69",
+        "dagMaxTemp": "131"
+    },
+    {
+        "dagGemTemp": "75",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/26",
+        "dagMinTemp": "47",
+        "dagMaxTemp": "96"
+    },
+    {
+        "dagGemTemp": "101",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/27",
+        "dagMinTemp": "78",
+        "dagMaxTemp": "116"
+    },
+    {
+        "dagGemTemp": "60",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/28",
+        "dagMinTemp": "43",
+        "dagMaxTemp": "78"
+    },
+    {
+        "dagGemTemp": "89",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/29",
+        "dagMinTemp": "53",
+        "dagMaxTemp": "103"
+    },
+    {
+        "dagGemTemp": "67",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/30",
+        "dagMinTemp": "28",
+        "dagMaxTemp": "93"
+    },
+    {
+        "dagGemTemp": "56",
+        "stad": "Leeuwarden",
+        "dag": "2016/01/31",
+        "dagMinTemp": "41",
+        "dagMaxTemp": "71"
+    }
+]
