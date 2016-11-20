@@ -1,4 +1,12 @@
-var data = [{
+queue()
+    .defer(d3.json, 'd3lineLee.json')
+    .defer(d3.json, 'd3lineRot.json')
+    .await(InitChart);
+
+function InitChart() {
+var data = 
+[
+    {
         "dagGemTemp": "50",
         "stad": "Leeuwarden",
         "dag": "1",
@@ -434,20 +442,6 @@ var data2 = [{
         "dagMaxTemp": "117"
     }];
 
-// console.log(data.stad)
-
-// function toIntArray(data) {
-//     for (var i = 0; i < data.length; i++) { 
-//         console.log(data.dag)
-//         data.dag[i] = +data.dag[i]; 
-//         console.log(data.dag[i])
-//     } 
-//     return data;
-// }
-
-// dataInt = toIntArray(data);
-
-// var parseTime = d3.timeParse("%Y%m%d");
 var chart = d3.select("#linegraph"),
     WIDTH = 1000,
     HEIGHT = 500,
@@ -458,21 +452,43 @@ var chart = d3.select("#linegraph"),
         left: 50
     },
 
+// queue()
+//     .defer(d3.json, 'd3lineLee.json')
+//     .defer(d3.json, 'd3lineRot.json')
+//     .await(makeMyMap);
+
 // scaling axis
 xScale = d3.scale.linear()
     .range([MARGINS.left, WIDTH - MARGINS.right])
-    .domain([d3.min(data, function(d) { return d.dag; }), d3.max(data, function(d) { return d.dag; })]),
+    .domain([d3.min(data, function(d) { 
+        console.log(+d.dag);
+        return +d.dag; 
+    }), d3.max(data, function(d) { 
+        return +d.dag; 
+    })]),
+    
 
 yScale = d3.scale.linear()
     .range([HEIGHT - MARGINS.top, MARGINS.bottom])
-    .domain([d3.min(data, function(d) { return d.dagGemTemp; }), d3.max(data, function(d) { return d.dagGemTemp; })]),
+    .domain([d3.min(data, function(d) { 
+        return +d.dagMinTemp; }), 
+    d3.max(data, function(d) { 
+        return +d.dagMaxTemp; 
+    })]),
 
 xAxis = d3.svg.axis()
-    .scale(xScale);
+    .scale(xScale)
+    .ticks(31);
 
 yAxis = d3.svg.axis()
     .scale(yScale)
     .orient("left");
+
+// d3.json("d3lineLee.json", function(data) {
+//     xScale.domain([d3.min(data, function(d) { return +d.dag; }), d3.max(data, function(d) { return +d.dag; })]),
+//     yScale.domain([d3.min(data, function(d) { return +d.dagMinTemp; }), d3.max(data, function(d) { return +d.dagMaxTemp; })])
+// })
+    
 
 // generating line
 var lineGen = d3.svg.line()
@@ -483,7 +499,7 @@ var lineGen = d3.svg.line()
 // appending axis to chart
 chart.append("svg:g")
     .attr("class","axis")
-    .attr("transform", "translate(0," + ((HEIGHT / 1.44) - MARGINS.bottom) + ")")
+    .attr("transform", "translate(0," + ((HEIGHT / 1.31) - MARGINS.bottom) + ")")
     .call(xAxis);
 
 chart.append("svg:g")
@@ -492,7 +508,6 @@ chart.append("svg:g")
     .call(yAxis);
 
 // appending data to chart
-
 chart.append('svg:path')
   .attr('d', lineGen(data))
   .attr('stroke', 'green')
@@ -504,4 +519,6 @@ chart.append('svg:path')
   .attr('stroke', 'blue')
   .attr('stroke-width', 2)
   .attr('fill', 'none');
+}
 
+InitChart();

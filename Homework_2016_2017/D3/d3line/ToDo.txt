@@ -1,0 +1,11 @@
+1. Scale to data
+2. import data as json
+3. queue two datasets
+4. moving cross-hair (dot)
+5. pop-up next to dot
+
+extended
+
+1. at least three lines
+2. toggle between extra variable
+3. 
