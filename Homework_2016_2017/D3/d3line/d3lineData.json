@@ -1,190 +1,190 @@
 [
     {
         "stad": "Leeuwarden",
-        "data" : [
+        "dagen" : [
             { 
-                "dagGemTemp": "50",
                 "dag": "1",
+                "dagGemTemp": "50",
                 "dagMinTemp": "3",
                 "dagMaxTemp": "90"
             },
             {
-                "dagGemTemp": "34",
                 "dag": "2",
+                "dagGemTemp": "34",
                 "dagMinTemp": "21",
                 "dagMaxTemp": "45"
             },
             {
-                "dagGemTemp": "11",
                 "dag": "3",
+                "dagGemTemp": "11",
                 "dagMinTemp": "-2",
                 "dagMaxTemp": "21"
             },
             {
-                "dagGemTemp": "-18",
                 "dag": "4",
+                "dagGemTemp": "-18",
                 "dagMinTemp": "-32",
                 "dagMaxTemp": "13"
             },
             {
-                "dagGemTemp": "-21",
                 "dag": "5",
+                "dagGemTemp": "-21",
                 "dagMinTemp": "-33",
                 "dagMaxTemp": "-12"
             },
             {
-                "dagGemTemp": "-34",
                 "dag": "6",
+                "dagGemTemp": "-34",
                 "dagMinTemp": "-42",
                 "dagMaxTemp": "-26"
             },
             {
-                "dagGemTemp": "10",
                 "dag": "7",
+                "dagGemTemp": "10",
                 "dagMinTemp": "-26",
                 "dagMaxTemp": "65"
             },
             {
-                "dagGemTemp": "55",
                 "dag": "8",
+                "dagGemTemp": "55",
                 "dagMinTemp": "21",
                 "dagMaxTemp": "83"
             },
             {
-                "dagGemTemp": "42",
                 "dag": "9",
+                "dagGemTemp": "42",
                 "dagMinTemp": "9",
                 "dagMaxTemp": "62"
             },
             {
-                "dagGemTemp": "57",
                 "dag": "10",
+                "dagGemTemp": "57",
                 "dagMinTemp": "37",
                 "dagMaxTemp": "73"
             },
             {
-                "dagGemTemp": "42",
                 "dag": "11",
+                "dagGemTemp": "42",
                 "dagMinTemp": "28",
                 "dagMaxTemp": "58"
             },
             {
-                "dagGemTemp": "53",
                 "dag": "12",
+                "dagGemTemp": "53",
                 "dagMinTemp": "31",
                 "dagMaxTemp": "76"
             },
             {
-                "dagGemTemp": "41",
                 "dag": "13",
+                "dagGemTemp": "41",
                 "dagMinTemp": "14",
                 "dagMaxTemp": "71"
             },
             {
-                "dagGemTemp": "24",
                 "dag": "14",
+                "dagGemTemp": "24",
                 "dagMinTemp": "6",
                 "dagMaxTemp": "53"
             },
             {
-                "dagGemTemp": "20",
                 "dag": "15",
+                "dagGemTemp": "20",
                 "dagMinTemp": "-7",
                 "dagMaxTemp": "46"
             },
             {
-                "dagGemTemp": "21",
                 "dag": "16",
+                "dagGemTemp": "21",
                 "dagMinTemp": "-5",
                 "dagMaxTemp": "47"
             },
             {
-                "dagGemTemp": "-4",
                 "dag": "17",
+                "dagGemTemp": "-4",
                 "dagMinTemp": "-39",
                 "dagMaxTemp": "32"
             },
             {
-                "dagGemTemp": "-26",
                 "dag": "18",
+                "dagGemTemp": "-26",
                 "dagMinTemp": "-43",
                 "dagMaxTemp": "-5"
             },
             {
-                "dagGemTemp": "-5",
                 "dag": "19",
+                "dagGemTemp": "-5",
                 "dagMinTemp": "-45",
                 "dagMaxTemp": "25"
             },
             {
-                "dagGemTemp": "9",
                 "dag": "20",
+                "dagGemTemp": "9",
                 "dagMinTemp": "-38",
                 "dagMaxTemp": "46"
             },
             {
-                "dagGemTemp": "-16",
                 "dag": "21",
+                "dagGemTemp": "-16",
                 "dagMinTemp": "-46",
                 "dagMaxTemp": "0"
             },
             {
-                "dagGemTemp": "0",
                 "dag": "22",
+                "dagGemTemp": "0",
                 "dagMinTemp": "-26",
                 "dagMaxTemp": "33"
             },
             {
-                "dagGemTemp": "59",
                 "dag": "23",
+                "dagGemTemp": "59",
                 "dagMinTemp": "33",
                 "dagMaxTemp": "89"
             },
             {
-                "dagGemTemp": "68",
                 "dag": "24",
+                "dagGemTemp": "68",
                 "dagMinTemp": "45",
                 "dagMaxTemp": "96"
             },
             {
-                "dagGemTemp": "98",
                 "dag": "25",
+                "dagGemTemp": "98",
                 "dagMinTemp": "69",
                 "dagMaxTemp": "131"
             },
             {
-                "dagGemTemp": "75",
                 "dag": "26",
+                "dagGemTemp": "75",
                 "dagMinTemp": "47",
                 "dagMaxTemp": "96"
             },
             {
-                "dagGemTemp": "101",
                 "dag": "27",
+                "dagGemTemp": "101",
                 "dagMinTemp": "78",
                 "dagMaxTemp": "116"
             },
             {
-                "dagGemTemp": "60",
                 "dag": "28",
+                "dagGemTemp": "60",
                 "dagMinTemp": "43",
                 "dagMaxTemp": "78"
             },
             {
-                "dagGemTemp": "89",
                 "dag": "29",
+                "dagGemTemp": "89",
                 "dagMinTemp": "53",
                 "dagMaxTemp": "103"
             },
             {
-                "dagGemTemp": "67",
                 "dag": "30",
+                "dagGemTemp": "67",
                 "dagMinTemp": "28",
                 "dagMaxTemp": "93"
             },
             {
-                "dagGemTemp": "56",
                 "dag": "31",
+                "dagGemTemp": "56",
                 "dagMinTemp": "41",
                 "dagMaxTemp": "71"
             }
@@ -193,7 +193,7 @@
     },
     {
         "stad": "Rotterdam",
-        "data": [
+        "dagen": [
             {
                 "dagGemTemp": "56",                
                 "dag": "1",
