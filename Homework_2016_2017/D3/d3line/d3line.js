@@ -1,17 +1,17 @@
-queue()
+d3.queue()
     .defer(d3.json, 'd3lineLee.json')
     .defer(d3.json, 'd3lineRot.json')
     .await(InitChart);
 
-function InitChart(error, data, data2) {
+function InitChart() {
 
     var chart = d3.select("#linegraph"),
         WIDTH = 1000,
         HEIGHT = 500,
         MARGINS = {
-            top: 20,
+            top: 50,
             right: 20,
-            bottom: 20,
+            bottom: 50,
             left: 50
         },
 
@@ -27,7 +27,8 @@ function InitChart(error, data, data2) {
         
     yScale = d3.scale.linear()
         .range([HEIGHT - MARGINS.top, MARGINS.bottom])
-        .domain([d3.min(data, function(d) { 
+        .domain([d3.min(data, function(d) {
+            // console.log(d.dagMinTemp)
             return +d.dagMinTemp; }), 
         d3.max(data, function(d) { 
             return +d.dagMaxTemp; 
