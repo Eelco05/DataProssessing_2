@@ -3,7 +3,9 @@ d3.queue()
     .defer(d3.json, 'd3lineRot.json')
     .await(InitChart);
 
-function InitChart() {
+function InitChart(error, data1, data2) {
+
+    // console.log("error", error, "data1", data1, "data2", data2)
 
     var chart = d3.select("#linegraph"),
         WIDTH = 1000,
@@ -12,35 +14,42 @@ function InitChart() {
             top: 50,
             right: 20,
             bottom: 50,
-            left: 50
+            left: 40
         },
 
     // scaling axis
     xScale = d3.scale.linear()
         .range([MARGINS.left, WIDTH - MARGINS.right])
-        .domain([d3.min(data, function(d) { 
-            // console.log(+d.dag);
-            return +d.dag; 
-        }), d3.max(data, function(d) { 
-            return +d.dag; 
+        .domain([
+            d3.min(data1, function(d) {
+                console.log(+d.dag); 
+                return +d.dag; 
+            }), 
+            d3.max(data1, function(d) { 
+                return +d.dag; 
         })]),
         
     yScale = d3.scale.linear()
         .range([HEIGHT - MARGINS.top, MARGINS.bottom])
-        .domain([d3.min(data, function(d) {
-            // console.log(d.dagMinTemp)
-            return +d.dagMinTemp; }), 
-        d3.max(data, function(d) { 
-            return +d.dagMaxTemp; 
+        .domain([
+            d3.min(data1, function(d) {
+                return +d.dagMinTemp; 
+            }), 
+            d3.max(data1, function(d) { 
+                return +d.dagMaxTemp; 
         })]),
 
     xAxis = d3.svg.axis()
         .scale(xScale)
-        .ticks(d3.max(data, function(d) { return +d.dag; }));
+        .ticks(d3.max(data1, function(d) { return +d.dag; }));
 
     yAxis = d3.svg.axis()
         .scale(yScale)
-        .orient("left");        
+        .orient("left")
+        .ticks(d3.max(data1, function(d) { return +d.dagGemTemp / 5; }))
+        .innerTickSize(-HEIGHT)
+        .outerTickSize(0)
+        .tickPadding(10);;        
 
     // generating line
     var lineGen = d3.svg.line()
@@ -51,7 +60,7 @@ function InitChart() {
     // appending axis to chart
     chart.append("svg:g")
         .attr("class","axis")
-        .attr("transform", "translate(0," + ((HEIGHT / 1.31) - MARGINS.bottom) + ")")
+        .attr("transform", "translate(0," + ((HEIGHT / 1.26) - MARGINS.bottom) + ")")
         .call(xAxis);
 
     chart.append("svg:g")
@@ -59,10 +68,28 @@ function InitChart() {
         .attr("transform", "translate(" + (MARGINS.left) + ",0)")
         .call(yAxis);
 
-    // appending data to chart
+    // adding grid for ease of use
+    chart.append("svg:g")         
+        .attr("class", "grid")
+        .attr("transform", "translate(0," + (HEIGHT - MARGINS.bottom) + ")")
+        .call(xAxis
+            .tickSize(-HEIGHT - 200, 0, 0)
+            .tickFormat("")
+        );
+
+    chart.append("svg:g")         
+        .attr("class", "grid")
+        .attr("transform", "translate(" + (MARGINS.left) + ",0)")
+        .call(yAxis
+            .tickSize(-WIDTH + 60, 0, 0)
+            .tickFormat("")
+        );
+
+
+    // appending data as lines to chart
     chart.append('svg:path')
-      .attr('d', lineGen(data))
-      .attr('stroke', 'green')
+      .attr('d', lineGen(data1))
+      .attr('stroke', 'red')
       .attr('stroke-width', 2)
       .attr('fill', 'none');
 
