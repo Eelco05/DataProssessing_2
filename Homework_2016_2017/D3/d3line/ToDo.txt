@@ -1,6 +1,5 @@
 todo
-- moving cross-hair/dot
-- pop-up next to dot
+
 
 done
 - adding legend
@@ -8,6 +7,8 @@ done
 - import data as json
 - queue two datasets
 - setting x-axis to y-0
+- moving cross-hair/dot
+- pop-up next to dot
 
 extended
 

@@ -11,16 +11,21 @@
     fill: black;
 }
 
-h1, h2, p { 
+h1, h2 { 
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+p {
 	text-align: center;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 body {
-	background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-color: lightblue;
+	
 }
 
 .grid .tick {
@@ -31,31 +36,17 @@ body {
     stroke-width: 0;
 }
 
-.d3-tip {
-  line-height: 1;
-  font-weight: bold;
-  padding: 5px;
-  background: steelblue;
-  color: white;
-  border-radius: 1px;
+div.tooltip {	
+    position: absolute;			
+    text-align: center;								
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
 }
 
-/* Creates a small triangle extender for the tooltip */
-.d3-tip:after {
-  box-sizing: border-box;
-  display: inline;
-  font-size: 10px;
-  width: 100%;
-  line-height: 1;
-  color: steelblue;
-  content: "\25BC";
-  position: absolute;
-  text-align: center;
-}
-
-/* Style northward tooltips differently */
-.d3-tip.n:after {
-  margin: -1px 0 0 0;
-  top: 100%;
-  left: 0;
+span {
+	color: red;
 }
