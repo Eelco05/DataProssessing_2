@@ -1,14 +1,13 @@
-done
-- Scale to data (done!)
-- import data as json (done!)
-- queue two datasets (done!)
-- setting x-axis to y-0
-
 todo
-- adding legend
-
 - moving cross-hair/dot
 - pop-up next to dot
+
+done
+- adding legend
+- Scale to data
+- import data as json
+- queue two datasets
+- setting x-axis to y-0
 
 extended
 
