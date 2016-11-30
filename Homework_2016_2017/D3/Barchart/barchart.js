@@ -79,20 +79,6 @@ d3.json("data.json", function(error, data) {
       		.on('mouseout', tip.hide)
 });
 
-	// chart.selectAll(".bar.data")
-	// 	.data(data)
-	// 	.enter().append("text")
-	// 	.on('mouseover', function(d) {
-	// 		d3.select(this)
-	// 			.attr("text-anchor", "middle")
-	// 		.text(function(d) { return y(d.Rainfall); })
-	// 			.attr("x", function(d, i) { return x(d.Date) + barPadding; })
-	// 			.attr("y", function(d) { return height - (height - y(d.Rainfall)); })
-	// 			.attr("font-family", "sans-serif")
-	// 			.attr("font-size", "11px")
-	// 			.attr("fill", "black");
-	// })
-
 function type(d) {
 	d.Rainfall = +d.Rainfall; // coerce to number
 	return d;
