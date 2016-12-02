@@ -1,17 +1,10 @@
+extended
+
 todo
+
+- toggle between extra variable
 - 
 
 done
-- adding legend
-- Scale to data
-- import data as json
-- queue two datasets
-- setting x-axis to y-0
-- moving cross-hair/dot
-- pop-up next to dot
-
-extended
 
 - at least three lines
-- toggle between extra variable
-- 
