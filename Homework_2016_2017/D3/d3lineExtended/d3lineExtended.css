@@ -1,0 +1,52 @@
+.axis path {
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+    stroke: black;
+}
+.axis text {
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: bold;
+    fill: black;
+}
+
+h1, h2 { 
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+p {
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+body {
+	
+}
+
+.grid .tick {
+    stroke: darkgray;
+    opacity: 0.7;
+}
+.grid path {
+    stroke-width: 0;
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;								
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+span {
+	color: red;
+}

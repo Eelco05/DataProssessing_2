@@ -1,0 +1,74 @@
+# BRON: KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT (KNMI)
+# Opmerking: door stationsverplaatsingen en veranderingen in waarneemmethodieken zijn deze tijdreeksen van dagwaarden mogelijk inhomogeen! Dat betekent dat deze reeks van gemeten waarden niet geschikt is voor trendanalyse. Voor studies naar klimaatverandering verwijzen we naar de gehomogeniseerde reeks maandtemperaturen van De Bilt <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/gehomogeniseerde-reeks-maandtemperaturen-de-bilt> of de Centraal Nederland Temperatuur <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# 
+# STN      LON(east)   LAT(north)     ALT(m)  NAME
+# 260:         5.180       52.100       1.90  DE BILT
+# 
+# YYYYMMDD = Datum (YYYY=jaar MM=maand DD=dag); 
+# TG       = Etmaalgemiddelde temperatuur (in 0.1 graden Celsius); 
+# TN       = Minimum temperatuur (in 0.1 graden Celsius); 
+# TX       = Maximum temperatuur (in 0.1 graden Celsius); 
+# 
+# STN,YYYYMMDD,   TG,   TN,   TX
+# 
+  260,20160101,   41,   -2,   75
+  260,20160102,   54,   46,   63
+  260,20160103,   69,   52,   82
+  260,20160104,   57,   38,   70
+  260,20160105,   68,   47,   77
+  260,20160106,   26,   16,   47
+  260,20160107,   61,   35,   79
+  260,20160108,   54,   14,   83
+  260,20160109,   56,   10,   79
+  260,20160110,   69,   50,   90
+  260,20160111,   48,   21,   67
+  260,20160112,   58,   47,   72
+  260,20160113,   50,   24,   70
+  260,20160114,   35,   16,   53
+  260,20160115,   24,  -12,   40
+  260,20160116,   27,  -16,   56
+  260,20160117,  -10,  -56,   30
+  260,20160118,  -33,  -67,    0
+  260,20160119,  -25,  -80,    7
+  260,20160120,   12,  -37,   53
+  260,20160121,  -12,  -43,   15
+  260,20160122,    9,  -22,   57
+  260,20160123,   66,   28,   90
+  260,20160124,   77,   50,  104
+  260,20160125,  107,   74,  146
+  260,20160126,   92,   66,  111
+  260,20160127,  109,   86,  124
+  260,20160128,   67,   49,   90
+  260,20160129,   85,   53,  100
+  260,20160130,   74,   51,   99
+  260,20160131,   68,   36,  108
+  260,20160201,  115,  106,  119
+  260,20160202,   89,   65,  114
+  260,20160203,   50,   31,   70
+  260,20160204,   51,   29,   77
+  260,20160205,   87,   50,  109
+  260,20160206,   94,   83,  106
+  260,20160207,   85,   66,  111
+  260,20160208,   85,   70,   99
+  260,20160209,   53,   33,   82
+  260,20160210,   48,   18,   83
+  260,20160211,   38,  -16,   83
+  260,20160212,   27,  -17,   66
+  260,20160213,   18,  -20,   44
+  260,20160214,   14,    5,   26
+  260,20160215,   23,  -31,   56
+  260,20160216,   -3,  -50,   61
+  260,20160217,  -13,  -52,   35
+  260,20160218,   13,  -23,   31
+  260,20160219,   39,   12,   83
+  260,20160220,   82,   50,  111
+  260,20160221,  104,   86,  116
+  260,20160222,   68,   44,  113
+  260,20160223,   43,    8,   79
+  260,20160224,   23,  -14,   65
+  260,20160225,   18,  -10,   54
+  260,20160226,   21,   -7,   55
+  260,20160227,   22,  -16,   63
+  260,20160228,   22,  -17,   66
+  260,20160229,   13,  -43,   67
