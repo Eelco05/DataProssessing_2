@@ -4,27 +4,37 @@
   <head>
 
     <link href="d3lineExtended.css" rel="stylesheet">
-
+    
     <h1>Average Daily Temperatures</h1>
     <h2>Januari 2016</h2>
 
   </head>
    
   <body>
+
+    <form align="center">
+      <input type="radio" name="temp" value="Average" checked onclick="updateAverage()"> Average
+      <input type="radio" name="temp" value="Minimum" onclick="updateMinimum()"> Minimum
+      <input type="radio" name="temp" value="Maximum" onclick="updateMaximum()"> Maximum
+    </form>
    
     <div align="center" class="container">
 
-        <svg id="linegraph" width="1000" height="500"></svg>
-        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-        <script src="https://d3js.org/d3-queue.v3.min.js"></script>
-        <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
-        <script src="d3lineExtended.js"></script>
+      <svg id="linegraph" width="1000" height="500"></svg>
+      <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+      <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+      <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+      <script type="text/javascript" src="d3lineExtended.js"></script>
     
     </div>
+
     <div align="center">
+
       <p>In this graph the average temperatures for the Dutch cities of De Bilt, Leeuwarden en Rotterdam</p>
       <a href="http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi">Data source</a>
+
     </div>
+
   </body>
  
 </html>
