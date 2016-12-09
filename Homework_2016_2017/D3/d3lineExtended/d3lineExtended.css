@@ -11,12 +11,9 @@
     fill: black;
 }
 
-h1, h2 { 
+h1, h2, h3 { 
 	text-align: center;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	background-image: url("//cdn.knmi.nl/assets/weather-forecast-02724847c57f7591eed277237cb4b2a7.jpg");
-	background-repeat: no-repeat;
-	background-position: center top;
 }
 
 p {

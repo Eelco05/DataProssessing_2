@@ -4,18 +4,35 @@ var chart = d3.select("#linegraph"),
         HEIGHT = 500,
         MARGINS = { top: 10, right: 20, bottom: 10, left: 50 };
 
+var data1; 
+var data2; 
+var data3;
 
 // temp switch
 var type = 1
 
 function updateType(t) {
     type = t;
-    console.log(type)
+    chart.selectAll("*").remove();
+    InitChart(data1, data2, data3);
 }
 
+function dat (error, dat1, dat2, dat3) {
+    data1 = dat1;
+    data2 = dat2;
+    data3 = dat3;
+    InitChart(data1, data2, data3)
+}
+
+// importing json data
+d3.queue()
+    .defer(d3.json, 'd3lineExtendedLee.json')
+    .defer(d3.json, 'd3lineExtendedRot.json')
+    .defer(d3.json, 'd3lineExtendedBil.json')
+    .await(dat);
 
 // initialising chart
-function InitChart(error, data1, data2, data3) {
+function InitChart(data1, data2, data3) {
     
     // scaling axis
     xScale = d3.scale.linear()
@@ -93,23 +110,15 @@ function InitChart(error, data1, data2, data3) {
     legend(3, "red", "De Bilt")
 
     // adding data lines
-    lines(data1, "green", type);
-    lines(data2, "blue", type);
-    lines(data3, "red", type);
+    lines(type, data1, "green");
+    lines(type, data2, "blue");
+    lines(type, data3, "red");
 
     // adding dots and tooltip
-    createDot(data1, "green", type);
-    createDot(data2, "blue", type);
-    createDot(data3, "red", type);
+    createDot(type, data1, "green");
+    createDot(type, data2, "blue");
+    createDot(type, data3, "red");
 }
-
-// importing json data
-d3.queue()
-    .defer(d3.json, 'd3lineExtendedLee.json')
-    .defer(d3.json, 'd3lineExtendedRot.json')
-    .defer(d3.json, 'd3lineExtendedBil.json')
-    .await(InitChart);
-
 
 // line plotter
 function lines(type, data, color) {
@@ -137,7 +146,7 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")               
     .style("opacity", 0);
 
-function createDot (data, color, type) {
+function createDot (type, data, color) {
 
     chart.selectAll("dot")   
         .data(data)         
@@ -180,4 +189,5 @@ function legend(y, color, city) {
         .text(city);
 }
 
-InitChart();
+
+
