@@ -5,6 +5,15 @@ var chart = d3.select("#linegraph"),
         MARGINS = { top: 10, right: 20, bottom: 10, left: 50 };
 
 
+// temp switch
+var type = 1
+
+function updateType(t) {
+    type = t;
+    console.log(type)
+}
+
+
 // initialising chart
 function InitChart(error, data1, data2, data3) {
     
@@ -69,11 +78,6 @@ function InitChart(error, data1, data2, data3) {
             .attr("transform", "translate(" + (MARGINS.left) + ",0)")
             .call(yAxis.tickSize(-WIDTH + 60, 0, 0).tickFormat(""));
 
-    // adding data lines
-    lines(data1, "green");
-    lines(data2, "blue");
-    lines(data3, "red");
-
     // adding legend
     chart.append("text")
         .attr("x", xScale(29) + 2)
@@ -88,11 +92,15 @@ function InitChart(error, data1, data2, data3) {
     legend(2, "blue", "Rotterdam")
     legend(3, "red", "De Bilt")
 
+    // adding data lines
+    lines(data1, "green", type);
+    lines(data2, "blue", type);
+    lines(data3, "red", type);
 
     // adding dots and tooltip
-    createDot(data1, "green");
-    createDot(data2, "blue");
-    createDot(data3, "red");
+    createDot(data1, "green", type);
+    createDot(data2, "blue", type);
+    createDot(data3, "red", type);
 }
 
 // importing json data
@@ -104,10 +112,15 @@ d3.queue()
 
 
 // line plotter
-function lines(data, color) {
+function lines(type, data, color) {
+    
     var line = d3.svg.line()
         .x(function(d) { return xScale(+d.dag); })
-        .y(function(d) { return yScale(+d.dagGemTemp); })
+        .y(function(d) { 
+            if (type == 1) { return yScale(+d.dagGemTemp); }
+            else if (type == 2) { return yScale(+d.dagMinTemp); }
+            else { return yScale(+d.dagMaxTemp); } 
+        })
         .interpolate("linear");
 
     chart.append('svg:path')
@@ -124,14 +137,18 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")               
     .style("opacity", 0);
 
-function createDot (data, color) {
+function createDot (data, color, type) {
 
     chart.selectAll("dot")   
         .data(data)         
     .enter().append("circle")                               
         .attr("r", 2.2)       
         .attr("cx", function(d) { return xScale(+d.dag); })       
-        .attr("cy", function(d) { return yScale(+d.dagGemTemp); })
+        .attr("cy", function(d) { 
+            if (type == 1) { return yScale(+d.dagGemTemp); }
+            else if (type == 2) { return yScale(+d.dagMinTemp); }
+            else { return yScale(+d.dagMaxTemp); }    
+        })   
         .style("fill", color)
         .on("mouseover", function(d) {      
             div.transition()           
@@ -150,8 +167,6 @@ function createDot (data, color) {
                 .style("opacity", 0);   
     });
 }
-
-
 
 // legend 
 function legend(y, color, city) {

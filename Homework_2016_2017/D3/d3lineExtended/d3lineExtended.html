@@ -13,9 +13,9 @@
   <body>
 
     <form align="center">
-      <input type="radio" name="temp" value="Average" onclick="InitChart()" checked> Average
-      <input type="radio" name="temp" value="Minimum" onclick="updateMinimum()"> Minimum
-      <input type="radio" name="temp" value="Maximum" onclick="updateMaximum()"> Maximum
+      <input type="radio" name="temp" value="Average" onclick="updateType(1)" onclick="InitChart()" checked> Average
+      <input type="radio" name="temp" value="Minimum" onclick="updateType(2)" onclick="InitChart()"> Minimum
+      <input type="radio" name="temp" value="Maximum" onclick="updateType(3)" onclick="InitChart()"> Maximum
     </form>
    
     <div align="center" class="container">
