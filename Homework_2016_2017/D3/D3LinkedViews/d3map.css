@@ -1,0 +1,32 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: top;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+#datamap {
+	display: block;
+    vertical-align: left;
+    background-color: lightblue;
+    position: absolute;
+    max-width: 520px;
+    max-height: 200px
+}
+
+#textblock {
+	align-content: left;
+}
