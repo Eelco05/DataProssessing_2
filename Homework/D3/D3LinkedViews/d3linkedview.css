@@ -1,3 +1,41 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: white;
+    background-color: lightblue;
+    clear: left;
+    text-align: center;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: lightblue;
+    clear: left;
+    text-align: center;
+}
+
+#datamap {
+    float: middle;
+    margin: 10px 10px 10px 0;
+    display: block;
+    background-color: lightblue;
+    position: relative;
+    width: 550px;
+    height: 600px; /*waarom pakt hij deze niet?*/
+    border: 2px solid red;
+}
+
+#chart {
+    height: 250px;
+    width: 550px;
+    border: 1px solid red;
+}
+
 .bar {
   fill: steelblue;
 }
@@ -48,41 +86,4 @@
 
 .x.axis path {
   display: none;
-}
-
-
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: white;
-    background-color: lightblue;
-    clear: left;
-    text-align: center;
-}
-
-footer {
-    padding: 1em;
-    color: white;
-    background-color: lightblue;
-    clear: left;
-    text-align: left;
-}
-
-#datamap {
-	float: middle;
-    margin: 10px 10px 10px 0;
-	display: block;
-    background-color: lightblue;
-    position: relative;
-    width: 550px;
-    height: 600px; /*waarom pakt hij deze niet?*/
-    border: 2px solid red;
-}
-
-#chart {
-    border: 1px solid red;
 }

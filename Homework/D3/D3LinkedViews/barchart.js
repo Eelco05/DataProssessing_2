@@ -1,5 +1,5 @@
 var margin = {top: 20, right: 30, bottom: 50, left: 40},
-    width = 480 - margin.left - margin.right,
+    width = 580 - margin.left - margin.right,
     height = 250 - margin.top - margin.bottom;
 
 var barPadding = 13.5
