@@ -15,8 +15,9 @@ header, footer {
 	float: middle;
 	display: block;
     background-color: lightblue;
-    position: absolute;
+    position: relative;
     max-width: 50%;
+    max-height: 25%;
 }
 
 #textblock {
