@@ -1,0 +1,18 @@
+1. data vinden
+	- data is de deelname van het percentage mannen vs vrouwen in de arbeidsmarkt
+	- data nog uitsorteren
+
+2. dashboard met een interactieve kaart en een andere visualisatie
+	- kaart ingezoomd houden op europa en de juiste afmeting geven en houden
+		- deze kaart geeft 1 variabele weer
+	- andere visualisatie (geen lijn).
+		- deze geeft de tweede variabele weer
+	- mogelijk een floatbox om de pagina in te delen
+
+3. verbind beide visualisaties
+	- door op een land te klikken, update de 2e visualisatie
+
+4. een derde visualisatie 
+	- hiermee kan ik van jaar wisselen
+
+5. korte beschrijving van de design keuzes die ik (heb ge)maak(t)
