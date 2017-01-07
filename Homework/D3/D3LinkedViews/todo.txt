@@ -9,12 +9,14 @@
 		
 		ideën en problemen
 		- kaart ingezoomd houden op europa
+		- met data linken
 		- de juiste afmeting geven en houden, lukt alleen om de breedte aan te passen, niet de hoogte
 
 	- andere visualisatie, deze geeft de tweede variabele weer (geen lijn).
 		
 		ideën en problemen
-		- missen een stacked barchart, anders nog geen idee
+		- stacked barchart
+		- nu alleen nog oude d3 barchart, nog met data linken
 
 	- mogelijk een floatbox om de pagina in te delen
 
@@ -27,5 +29,6 @@
 
 	ideën en problemen
 	- hiermee kan ik van jaar wisselen
+	- form van linegraph gebruiken
 
 5. korte beschrijving van de design keuzes die ik (heb ge)maak(t)

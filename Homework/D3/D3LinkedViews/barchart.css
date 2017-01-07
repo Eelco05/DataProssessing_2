@@ -1,17 +1,21 @@
+body {
+  font: 10px sans-serif;
+}
+
 .bar {
   fill: steelblue;
 }
 
 .bar:hover {
-    fill: brown;
+	fill: brown;
 }
 
 .d3-tip {
   line-height: 1;
   font-weight: bold;
   padding: 5px;
-  background: white;
-  color: black;
+  background: steelblue;
+  color: white;
   border-radius: 1px;
 }
 
@@ -48,41 +52,4 @@
 
 .x.axis path {
   display: none;
-}
-
-
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: white;
-    background-color: lightblue;
-    clear: left;
-    text-align: center;
-}
-
-footer {
-    padding: 1em;
-    color: white;
-    background-color: lightblue;
-    clear: left;
-    text-align: left;
-}
-
-#datamap {
-	float: middle;
-    margin: 10px 10px 10px 0;
-	display: block;
-    background-color: lightblue;
-    position: relative;
-    width: 550px;
-    height: 600px; /*waarom pakt hij deze niet?*/
-    border: 2px solid red;
-}
-
-#chart {
-    border: 1px solid red;
 }
