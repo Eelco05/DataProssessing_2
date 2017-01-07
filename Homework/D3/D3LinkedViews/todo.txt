@@ -12,7 +12,7 @@
 3. verbind beide visualisaties
 	- door op een land te klikken, update de 2e visualisatie
 
-4. een derde visualisatie 
+4. een derde interactief element voor wissel van variabele
 	- hiermee kan ik van jaar wisselen
 
 5. korte beschrijving van de design keuzes die ik (heb ge)maak(t)
