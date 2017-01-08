@@ -45,11 +45,12 @@ footer {
 
 .d3-tip {
   line-height: 1;
-  font-weight: bold;
   padding: 5px;
+  font-family: Sans-serif;
+  font-size: 12px;
   background: white;
   color: black;
-  border-radius: 1px;
+  border: 1px solid lightgray;
 }
 
 /* Creates a small triangle extender for the tooltip */

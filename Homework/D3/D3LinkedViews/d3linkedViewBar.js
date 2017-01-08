@@ -33,7 +33,7 @@ d3.json("data/womenEmp2014bar.json", function(error, data) {
 		.attr('class', 'd3-tip')
 		.offset([-10, 0])
 		.html(function(d) {
-			return "<strong>Rainfall:</strong> <span style='color:white'>" + d.Value + "</span>";
+			return "Labour force participation rate: <br> <strong>" + d.Value + "</strong> %";
 	})
 
 	chart.call(tip);
