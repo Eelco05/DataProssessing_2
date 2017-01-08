@@ -1,0 +1,8507 @@
+[
+    {
+        "Time": "2000",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "26.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "35.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "40.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "41.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "41.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "43.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "45.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "IRL",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "AUT",
+        "fillKey": "40-50",
+        "Value": "49.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "FRA",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "DEU",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "LVA",
+        "fillKey": "40-50",
+        "Value": "49.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "49.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "49.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "51.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "51.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "52.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "52.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "53.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "53.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "54.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "54.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "55.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "56.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "56.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "58.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "59.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "61.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "64.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "64.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "66.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "66.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "67.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "68.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "69.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "71.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "73.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "77.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "78.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2000",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2000",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "86.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "27.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "36.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GRC",
+        "fillKey": "30-40",
+        "Value": "39.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "40.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "42.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "42.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "45.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "IRL",
+        "fillKey": "40-50",
+        "Value": "48.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "FRA",
+        "fillKey": "40-50",
+        "Value": "48.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "DEU",
+        "fillKey": "40-50",
+        "Value": "49.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "AUT",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "49.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "50.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "51.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "51.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "52.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "53.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "53.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "53.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "53.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "54.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "55.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "56.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "56.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "57.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "58.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "58.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "60.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "60.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "63.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "64.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "67.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "68.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "69.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "PRT",
+        "fillKey": "70-80",
+        "Value": "70.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "71.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "72.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "77.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "77.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2001",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2001",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "86.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "27.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "36.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "40.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "42.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "43.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "43.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "45.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "48.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "IRL",
+        "fillKey": "40-50",
+        "Value": "49.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "FRA",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "DEU",
+        "fillKey": "40-50",
+        "Value": "49.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "49.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "51.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "51.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "52.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "54.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "54.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "55.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "55.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "55.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "57.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "57.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "57.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "58.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "62.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "64.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "67.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "68.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "69.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "PRT",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "71.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "71.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "76.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "76.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "77.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2002",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2002",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "85.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "26.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "37.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "40.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "43.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "43.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "44.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "46.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "48.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "48.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "IRL",
+        "fillKey": "40-50",
+        "Value": "49.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "DEU",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "50.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "50.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "50.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "54.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "55.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "56.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "57.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "58.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "58.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "62.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "63.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "64.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "67.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "68.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "68.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "69.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "76.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "76.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "78.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2003",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "82.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2003",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "85.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "23.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "42.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "44.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "45.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "45.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "46.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "47.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "DEU",
+        "fillKey": "40-50",
+        "Value": "49.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "IRL",
+        "fillKey": "40-50",
+        "Value": "49.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "50.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "50.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "51.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "55.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "55.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "56.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "57.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "57.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "57.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "59.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "61.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "63.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "64.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "65.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "66.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "67.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "69.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "70.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "71.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "76.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "76.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "76.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2004",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "80.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2004",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "85.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "23.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "42.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "45.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "46.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "46.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "47.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "47.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "50.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "50.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "50.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "51.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "55.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "55.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "55.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "56.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "57.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "57.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "58.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "EST",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "64.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "66.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "67.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "69.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "69.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "72.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "72.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "75.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "76.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2005",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2005",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "86.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "23.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "42.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "45.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "46.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "46.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "48.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "48.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "49.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "50.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "50.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "50.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "52.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "52.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "52.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "53.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "53.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "53.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "55.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "56.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "58.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "59.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "61.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "62.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "63.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "64.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "65.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "65.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "67.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "69.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "69.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "TUR",
+        "fillKey": "60-70",
+        "Value": "69.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "72.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "73.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "75.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "75.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "78.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2006",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "83.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2006",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "87.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "23.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "37.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "42.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "46.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "46.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "46.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "ESP",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "CZE",
+        "fillKey": "40-50",
+        "Value": "49.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "50.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "50.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "52.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "52.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "53.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "53.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "53.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "54.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "54.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "55.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "55.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "56.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "CHE",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "61.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "62.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "66.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "69.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "69.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "69.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "TUR",
+        "fillKey": "60-70",
+        "Value": "69.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "71.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "73.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "76.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "78.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2007",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "83.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2007",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "87.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "24.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "39.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "42.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "46.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "46.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "46.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "47.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "48.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "CZE",
+        "fillKey": "40-50",
+        "Value": "49.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "50.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "53.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "53.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "54.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "55.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "55.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "56.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "58.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "61.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "61.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "62.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "63.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "65.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "65.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "66.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "66.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "67.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "68.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "69.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "69.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "70.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "FIN",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "71.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "72.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "73.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "77.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2008",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "82.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2008",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "87.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "26.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "43.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "47.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "47.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "47.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "47.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "CZE",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "49.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "50.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "52.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "53.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "54.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "54.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "55.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "58.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "ITA",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "60.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "61.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "62.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "64.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "64.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "65.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "65.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "67.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "67.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "68.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "68.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "69.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "DNK",
+        "fillKey": "70-80",
+        "Value": "70.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "GBR",
+        "fillKey": "70-80",
+        "Value": "70.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "70.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "IRL",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "71.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "72.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "72.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "75.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2009",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "80.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2009",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "84.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "27.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "44.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "47.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "47.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "48.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "48.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "CZE",
+        "fillKey": "40-50",
+        "Value": "49.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "LUX",
+        "fillKey": "40-50",
+        "Value": "49.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "52.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "53.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "53.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "53.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "53.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "54.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "54.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "54.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "55.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "56.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "57.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ITA",
+        "fillKey": "50-60",
+        "Value": "59.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "BEL",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "61.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "62.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "62.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "62.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "63.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "65.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "67.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "67.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "69.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "69.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "69.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "69.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "70.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "70.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "71.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "75.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2010",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2010",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "84.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "28.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ITA",
+        "fillKey": "30-40",
+        "Value": "38.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "43.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "47.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "48.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "HUN",
+        "fillKey": "40-50",
+        "Value": "49.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "CZE",
+        "fillKey": "40-50",
+        "Value": "49.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "TUR",
+        "fillKey": "40-50",
+        "Value": "49.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "50.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "50.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "52.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "53.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "53.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "54.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "55.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "55.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "57.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ITA",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "59.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "61.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "63.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "63.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "64.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "64.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "65.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "67.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "68.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "69.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "69.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "70.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "70.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "71.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "71.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "72.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "74.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2011",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "80.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2011",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "83.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "TUR",
+        "fillKey": "20-30",
+        "Value": "29.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "40.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "44.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "47.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "48.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "TUR",
+        "fillKey": "50-60",
+        "Value": "50.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "50.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "50.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "51.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "52.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "52.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "53.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "54.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "55.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "55.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "56.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "56.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "57.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "58.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "59.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "59.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "ITA",
+        "fillKey": "50-60",
+        "Value": "59.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "60.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "61.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "61.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "62.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "63.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "64.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "65.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "65.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "67.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "67.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "67.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "68.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "69.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "69.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "71.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "71.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "72.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "74.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "77.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2012",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "80.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2012",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "83.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "TUR",
+        "fillKey": "30-40",
+        "Value": "30.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "40.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "43.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "47.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "48.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "TUR",
+        "fillKey": "50-60",
+        "Value": "50.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "51.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "51.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "52.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "52.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "52.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "53.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "54.0",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "54.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "54.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "55.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "57.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "57.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "58.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "58.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "ITA",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "59.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "60.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "60.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "60.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "60.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "61.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "61.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "62.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "63.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "64.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "65.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "65.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "65.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "66.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "66.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "67.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "67.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "69.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "71.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "71.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "71.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "73.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.9",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "78.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2013",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2013",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "84.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "TUR",
+        "fillKey": "30-40",
+        "Value": "30.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "40.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "GRC",
+        "fillKey": "40-50",
+        "Value": "44.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "BEL",
+        "fillKey": "40-50",
+        "Value": "48.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "POL",
+        "fillKey": "40-50",
+        "Value": "48.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "ITA",
+        "fillKey": "40-50",
+        "Value": "49.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "TUR",
+        "fillKey": "50-60",
+        "Value": "50.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "50.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "51.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "GRC",
+        "fillKey": "50-60",
+        "Value": "51.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "52.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "52.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "IRL",
+        "fillKey": "50-60",
+        "Value": "52.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LUX",
+        "fillKey": "50-60",
+        "Value": "53.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "53.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "53.7",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "53.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "53.9",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "DEU",
+        "fillKey": "50-60",
+        "Value": "54.8",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "AUT",
+        "fillKey": "50-60",
+        "Value": "55.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "FRA",
+        "fillKey": "50-60",
+        "Value": "56.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "POL",
+        "fillKey": "50-60",
+        "Value": "56.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "GBR",
+        "fillKey": "50-60",
+        "Value": "57.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVN",
+        "fillKey": "50-60",
+        "Value": "57.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "DNK",
+        "fillKey": "50-60",
+        "Value": "58.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "NLD",
+        "fillKey": "50-60",
+        "Value": "58.5",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "HUN",
+        "fillKey": "50-60",
+        "Value": "58.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "PRT",
+        "fillKey": "50-60",
+        "Value": "58.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "LTU",
+        "fillKey": "50-60",
+        "Value": "58.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "BEL",
+        "fillKey": "50-60",
+        "Value": "59.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "CZE",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "LVA",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVK",
+        "fillKey": "50-60",
+        "Value": "59.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "ITA",
+        "fillKey": "50-60",
+        "Value": "59.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "ESP",
+        "fillKey": "50-60",
+        "Value": "59.6",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "60.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "GRC",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "60.1",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "60.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "60.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "FRA",
+        "fillKey": "60-70",
+        "Value": "61.1",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "62.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "62.6",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "63.2",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVN",
+        "fillKey": "60-70",
+        "Value": "63.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "63.4",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "NLD",
+        "fillKey": "60-70",
+        "Value": "64.4",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "PRT",
+        "fillKey": "60-70",
+        "Value": "64.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "POL",
+        "fillKey": "60-70",
+        "Value": "64.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LTU",
+        "fillKey": "60-70",
+        "Value": "65.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "HUN",
+        "fillKey": "60-70",
+        "Value": "65.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "65.8",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "ESP",
+        "fillKey": "60-70",
+        "Value": "65.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "DEU",
+        "fillKey": "60-70",
+        "Value": "66.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "AUT",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "DNK",
+        "fillKey": "60-70",
+        "Value": "66.4",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LVA",
+        "fillKey": "60-70",
+        "Value": "66.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "LUX",
+        "fillKey": "60-70",
+        "Value": "66.8",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "IRL",
+        "fillKey": "60-70",
+        "Value": "67.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "CZE",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SVK",
+        "fillKey": "60-70",
+        "Value": "68.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "EST",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "FIN",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "NOR",
+        "fillKey": "60-70",
+        "Value": "68.3",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "CHE",
+        "fillKey": "60-70",
+        "Value": "68.7",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "SWE",
+        "fillKey": "60-70",
+        "Value": "69.1",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "GBR",
+        "fillKey": "60-70",
+        "Value": "69.2",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "NLD",
+        "fillKey": "70-80",
+        "Value": "70.5",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "71.0",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "TUR",
+        "fillKey": "70-80",
+        "Value": "71.3",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "71.9",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "NOR",
+        "fillKey": "70-80",
+        "Value": "73.6",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "EST",
+        "fillKey": "70-80",
+        "Value": "73.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "SWE",
+        "fillKey": "70-80",
+        "Value": "74.7",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "CHE",
+        "fillKey": "70-80",
+        "Value": "75.0",
+        "SEX": "MEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "ISL",
+        "fillKey": "70-80",
+        "Value": "78.2",
+        "SEX": "WOMEN"
+    },
+    {
+        "Time": "2014",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "81.5",
+        "SEX": "ALL_PERSONS"
+    },
+    {
+        "Time": "2014",
+        "COU": "ISL",
+        "fillKey": "80-90",
+        "Value": "84.7",
+        "SEX": "MEN"
+    }
+]

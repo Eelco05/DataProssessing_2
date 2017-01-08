@@ -9,33 +9,19 @@
 
     <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 
+    <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+
     <script src="/datamaps.world.min.js"></script>
 
-    <link rel="stylesheet" type="text/css" href="d3linkedview.css">
+    <script src="colorbrewer.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="d3linkedView.css">
 
     <header>
 
-        <h1>Linked View</h1>
+        <h1>Linked Views</h1>
 
     </header>
-
-    <form align="center">
-      <input type="radio" name="year" value="2000" onclick="updateType(1)" checked=""> 2000
-      <input type="radio" name="year" value="2000" onclick="updateType(2)"> 2001
-      <input type="radio" name="year" value="2000" onclick="updateType(3)"> 2002
-      <input type="radio" name="year" value="2000" onclick="updateType(4)"> 2003
-      <input type="radio" name="year" value="2000" onclick="updateType(5)"> 2004
-      <input type="radio" name="year" value="2005" onclick="updateType(6)"> 2005
-      <input type="radio" name="year" value="2000" onclick="updateType(7)"> 2006
-      <input type="radio" name="year" value="2000" onclick="updateType(8)"> 2007
-      <input type="radio" name="year" value="2000" onclick="updateType(9)"> 2008
-      <input type="radio" name="year" value="2000" onclick="updateType(10)"> 2009
-      <input type="radio" name="year" value="2010" onclick="updateType(11)"> 2010
-      <input type="radio" name="year" value="2000" onclick="updateType(12)"> 2011
-      <input type="radio" name="year" value="2000" onclick="updateType(13)"> 2012
-      <input type="radio" name="year" value="2000" onclick="updateType(14)"> 2013
-      <input type="radio" name="year" value="2000" onclick="updateType(15)"> 2014
-    </form>
   
   </head>
    
@@ -43,30 +29,46 @@
  
     <div id="container1">
       
-      
+      <div id='buttons'>
+        <button id="y2000">2000</button>
+        <button id="y2001">2001</button>
+        <button id="y2002">2002</button>
+        <button id="y2003">2003</button>
+        <button id="y2004">2004</button>
+        <button id="y2005">2005</button>
+        <button id="y2006">2006</button>
+        <button id="y2007">2007</button>
+        <button id="y2008">2008</button>
+        <button id="y2009">2009</button>
+        <button id="y2010">2010</button>
+        <button id="y2011">2011</button>
+        <button id="y2012">2012</button> 
+        <button id="y2013">2013</button>
+        <button id="y2014">2014</button>
+      </div>
 
       <div id="datamap">
 
-        <script src="d3linkedview.js"></script>
+        <script src="d3linkedViewMap.js"></script>
 
-      </div>
+      </div> 
 
       <div id="chart">
 
         <svg class="chart"></svg>
         
-        <script src="barchart.js"></script>
+        <script src="d3linkedViewBar.js"></script>
 
       </div>
 
-      <footer>
-        
-        <p>By Eelco Alink</p>
-
-      </footer>
-
     </div>
 
-  </body>
+    <footer>
+          
+      <p>By Eelco Alink</p>
+
+    </footer>
+
+    </body>
 
 </html>

@@ -1,0 +1,137 @@
+[
+    {
+        "COU": "TUR",
+        "Value": "27.6",
+        "fillKey": "30"
+    },
+    {
+        "COU": "ITA",
+        "Value": "38.6",
+        "fillKey": "40"
+    },
+    {
+        "COU": "GRC",
+        "Value": "44.1",
+        "fillKey": "50"
+    },
+    {
+        "COU": "POL",
+        "Value": "47.6",
+        "fillKey": "50"
+    },
+    {
+        "COU": "BEL",
+        "Value": "47.7",
+        "fillKey": "50"
+    },
+    {
+        "COU": "HUN",
+        "Value": "48.8",
+        "fillKey": "50"
+    },
+    {
+        "COU": "CZE",
+        "Value": "49.3",
+        "fillKey": "50"
+    },
+    {
+        "COU": "LUX",
+        "Value": "49.8",
+        "fillKey": "50"
+    },
+    {
+        "COU": "FRA",
+        "Value": "51.7",
+        "fillKey": "60"
+    },
+    {
+        "COU": "SVK",
+        "Value": "51.8",
+        "fillKey": "60"
+    },
+    {
+        "COU": "LTU",
+        "Value": "52.5",
+        "fillKey": "60"
+    },
+    {
+        "COU": "ESP",
+        "Value": "52.7",
+        "fillKey": "60"
+    },
+    {
+        "COU": "DEU",
+        "Value": "53.2",
+        "fillKey": "60"
+    },
+    {
+        "COU": "SVN",
+        "Value": "53.3",
+        "fillKey": "60"
+    },
+    {
+        "COU": "IRL",
+        "Value": "53.4",
+        "fillKey": "60"
+    },
+    {
+        "COU": "LVA",
+        "Value": "53.9",
+        "fillKey": "60"
+    },
+    {
+        "COU": "AUT",
+        "Value": "54.2",
+        "fillKey": "60"
+    },
+    {
+        "COU": "PRT",
+        "Value": "55.9",
+        "fillKey": "60"
+    },
+    {
+        "COU": "GBR",
+        "Value": "56.6",
+        "fillKey": "60"
+    },
+    {
+        "COU": "NLD",
+        "Value": "58.9",
+        "fillKey": "60"
+    },
+    {
+        "COU": "DNK",
+        "Value": "59.8",
+        "fillKey": "60"
+    },
+    {
+        "COU": "CHE",
+        "Value": "60.8",
+        "fillKey": "70"
+    },
+    {
+        "COU": "EST",
+        "Value": "62.6",
+        "fillKey": "70"
+    },
+    {
+        "COU": "FIN",
+        "Value": "63.7",
+        "fillKey": "70"
+    },
+    {
+        "COU": "SWE",
+        "Value": "67.1",
+        "fillKey": "70"
+    },
+    {
+        "COU": "NOR",
+        "Value": "68.7",
+        "fillKey": "70"
+    },
+    {
+        "COU": "ISL",
+        "Value": "77.6",
+        "fillKey": "80"
+    }
+]
